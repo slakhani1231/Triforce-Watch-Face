@@ -25,8 +25,6 @@ class TriforceWatchFaceView extends Ui.WatchFace {
     var four5hearts;
     var center_x;
     var center_y;
-    var minute_radius;
-    var hour_radius;
     var quarterHeart;
     var threeQuarterHeart;
     var nayru;
@@ -37,8 +35,8 @@ class TriforceWatchFaceView extends Ui.WatchFace {
     var stairs;
     var navi;
     var darknavi;
-    static const ARC_MAX = 52; //length of the arc for the step indicator
-    static const RAD_90_DEG = 1.570796;
+    var emptyTriforce;
+    static const ARC_MAX = 45; //length of the arc for the step indicator
     
     function initialize() {
         WatchFace.initialize();
@@ -69,6 +67,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
         stairs = Ui.loadResource(Rez.Drawables.stairs);
         navi = Ui.loadResource(Rez.Drawables.navi);
         darknavi = Ui.loadResource(Rez.Drawables.darkNavi);
+        emptyTriforce = Ui.loadResource(Rez.Drawables.emptyTriforce);
         font = Ui.loadResource( Rez.Fonts.fonty );
         
         center_x = dc.getWidth()/2;
@@ -91,15 +90,14 @@ class TriforceWatchFaceView extends Ui.WatchFace {
 	    //setBatteryDisplay();
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
-        dc.drawBitmap(center_x-farore.getWidth(), center_y-2, nayru);
-	    dc.drawBitmap(center_x, center_y-2, farore);
-	    dc.drawBitmap(center_x-farore.getWidth()/2, center_y-2-farore.getHeight(), din);
+        dc.drawBitmap(center_x-farore.getWidth(), center_y+5, nayru);
+	    dc.drawBitmap(center_x, center_y+5, farore);
+	    dc.drawBitmap(center_x-farore.getWidth()/2, center_y+5-farore.getHeight(), din);
                     
         updateBattery(dc);
         
         var activityInfo = Toybox.ActivityMonitor.getInfo();
-        var stepPercent = activityInfo.steps.toFloat()/activityInfo.stepGoal.toFloat();
-        drawStepsIndicator(dc, stepPercent);
+        drawStepsIndicator(dc, activityInfo);
         drawMoveWarning(dc);
         setStepCountDisplay(dc);
         setStairCountDisplay(dc);
@@ -122,11 +120,11 @@ class TriforceWatchFaceView extends Ui.WatchFace {
 	    		hours = hours - 12;
 	    		amPm = "pm";
 	    	}
-	    	dc.drawText(center_x + dc.getTextDimensions(min, Gfx.FONT_SMALL)[0]+5, center_y/4-2, Gfx.FONT_SYSTEM_TINY, amPm, Gfx.TEXT_JUSTIFY_LEFT);
+	    	dc.drawText(center_x + dc.getTextDimensions(min, Gfx.FONT_SMALL)[0]+5, center_y-82, Gfx.FONT_SYSTEM_TINY, amPm, Gfx.TEXT_JUSTIFY_LEFT);
 	    }
-	    dc.drawText(center_x-5, center_y/4, Gfx.FONT_SMALL, hours, Gfx.TEXT_JUSTIFY_RIGHT);
-	    dc.drawText(center_x, center_y/4, Gfx.FONT_SMALL, ":", Gfx.TEXT_JUSTIFY_CENTER);
-	    dc.drawText(center_x+5, center_y/4, Gfx.FONT_SMALL, min, Gfx.TEXT_JUSTIFY_LEFT);
+	    dc.drawText(center_x-5, center_y-80, Gfx.FONT_SMALL, hours, Gfx.TEXT_JUSTIFY_RIGHT);
+	    dc.drawText(center_x, center_y-80, Gfx.FONT_SMALL, ":", Gfx.TEXT_JUSTIFY_CENTER);
+	    dc.drawText(center_x+5, center_y-80, Gfx.FONT_SMALL, min, Gfx.TEXT_JUSTIFY_LEFT);
     }
 
     // Called when this View is removed from the screen. Save the
@@ -216,51 +214,46 @@ class TriforceWatchFaceView extends Ui.WatchFace {
 	    var dateString = Lang.format("$1$ $2$ $3$", [date.day_of_week, date.month, date.day]);
 	    
 	    dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
-	    dc.drawText(center_x+14, center_y-45, font, dateString, Gfx.TEXT_JUSTIFY_LEFT);
-    }
-    
-    private function setBatteryDisplay() {
-    	var battery = Sys.getSystemStats().battery;
-    	var batteryDisplay = View.findDrawableById("BatteryDisplay"); 	
-	    batteryDisplay.setText(battery.format("%d")+"%");	
+	    dc.drawText(center_x+18, center_y-35, font, dateString, Gfx.TEXT_JUSTIFY_LEFT);
     }
     
     private function setStepCountDisplay(dc) {
     	var stepCount = Mon.getInfo().steps.toString();		
 	    dc.setColor(Gfx.COLOR_BLUE, Gfx.COLOR_TRANSPARENT);
 	    var textDim = dc.getTextDimensions(stepCount,font);
-	    dc.drawText(center_x-farore.getWidth()/2, center_y+50, font, stepCount, Gfx.TEXT_JUSTIFY_CENTER);
-	    dc.drawBitmap((center_x-farore.getWidth()/2)-textDim[0]/2-steps.getWidth()-2, center_y+50, steps);
+	    dc.drawText(center_x-farore.getWidth()/2, center_y+55, font, stepCount, Gfx.TEXT_JUSTIFY_CENTER);
+	    dc.drawBitmap((center_x-farore.getWidth()/2)-textDim[0]/2-steps.getWidth()-2, center_y+55, steps);
     }
     
     private function setStairCountDisplay(dc) {
     	var stairCount = Mon.getInfo().floorsClimbed.toString();
     	dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
-    	dc.drawText(center_x, center_y+1, font, stairCount, Gfx.TEXT_JUSTIFY_LEFT);
-    	dc.drawBitmap(center_x-16, center_y-1, stairs);
+    	dc.drawText(center_x+1, center_y+6, font, stairCount, Gfx.TEXT_JUSTIFY_LEFT);
+    	dc.drawBitmap(center_x-16, center_y+6, stairs);
     }
     
     private function setActivityMinDisplay(dc) {
     	var actMin = Mon.getInfo().activeMinutesWeek.total.toString();
     	dc.setColor(Gfx.COLOR_DK_GREEN, Gfx.COLOR_TRANSPARENT);
-    	dc.drawText(center_x+farore.getWidth()/2, center_y+50, font, actMin, Gfx.TEXT_JUSTIFY_CENTER);
+    	dc.drawText(center_x+farore.getWidth()/2, center_y+55, font, actMin, Gfx.TEXT_JUSTIFY_CENTER);
     }
     
     private function setNotificationDisplay(dc, phoneConnected, notificationCount) {
     	var notifications = "0";
     	if (phoneConnected && notificationCount > 0) {
-    		dc.drawBitmap(center_x/4+2, center_y-55, navi);
+    		dc.drawBitmap(center_x/4+2, center_y-45, navi);
     	}
     	else {
-    		dc.drawBitmap(center_x/4+2, center_y-55, darknavi);
+    		dc.drawBitmap(center_x/4+2, center_y-45, darknavi);
     	}
-    	dc.drawText(center_x/4+darknavi.getWidth()+2, center_y-45, font, notificationCount, Gfx.TEXT_JUSTIFY_LEFT);
+    	dc.drawText(center_x/4+darknavi.getWidth()+2, center_y-35, font, notificationCount, Gfx.TEXT_JUSTIFY_LEFT);
     }
     
-    function drawStepsIndicator(dc, stepPercent) {
+    function drawStepsIndicator(dc, activityInfo) {
+        var stepPercent = activityInfo.steps.toFloat()/activityInfo.stepGoal.toFloat();
         var fillPercent = stepPercent;
         var borderColor = Gfx.COLOR_WHITE;
-        var fillColor = Gfx.COLOR_GREEN;
+        var fillColor = Gfx.COLOR_BLUE;
        
         //don't let the percentage completely exceed 100%
         if (fillPercent > 1.0) {
@@ -272,7 +265,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
         // erase the background (if any)
         dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
         dc.setPenWidth(5);
-        dc.drawArc(center_x, center_y, r-3, Gfx.ARC_CLOCKWISE, 207, 153);
+        dc.drawArc(center_x, center_y, r-3, Gfx.ARC_COUNTER_CLOCKWISE, 170, 8);
 
         if (fillPercent > 0) {
             var arcSize = fillPercent*ARC_MAX;
@@ -284,17 +277,93 @@ class TriforceWatchFaceView extends Ui.WatchFace {
             }
             dc.setColor(fillColor, Gfx.COLOR_TRANSPARENT);
             dc.setPenWidth(5);
-            dc.drawArc(center_x, center_y, r-3, Gfx.ARC_CLOCKWISE, 206, 206-arcSize);
+            dc.drawArc(center_x, center_y, r-3, Gfx.ARC_COUNTER_CLOCKWISE, 176, 176+arcSize);
         }
         dc.setColor(borderColor, Gfx.COLOR_TRANSPARENT);
         dc.setPenWidth(1);
         // draw the outer and inner arc borders
-        dc.drawArc(center_x, center_y, r, Gfx.ARC_CLOCKWISE, 207, 153);
-        dc.drawArc(center_x, center_y, r-5, Gfx.ARC_CLOCKWISE, 207, 153);
+        dc.drawArc(center_x, center_y, r, Gfx.ARC_CLOCKWISE, 175+ARC_MAX, 175);
         // draw the top and bottom borders
-        for (var i=0; i < 5; i++) {
-            dc.drawArc(center_x, center_y, r-i, Gfx.ARC_CLOCKWISE, 154, 153);
-            dc.drawArc(center_x, center_y, r-i, Gfx.ARC_CLOCKWISE, 207, 206);
+        for (var i=0; i < 6; i++) {
+            dc.drawArc(center_x, center_y, r-i, Gfx.ARC_CLOCKWISE, 176, 175);
+            dc.drawArc(center_x, center_y, r-i, Gfx.ARC_CLOCKWISE, 221, 220);
+        }
+        
+        var activityPercent = activityInfo.activeMinutesWeek.total.toFloat()/activityInfo.activeMinutesWeekGoal.toFloat();
+        fillPercent = activityPercent;
+        borderColor = Gfx.COLOR_WHITE;
+        fillColor = Gfx.COLOR_DK_GREEN;
+       
+        //don't let the percentage completely exceed 100%
+        if (fillPercent > 1.0) {
+           fillPercent = 1.0;
+        }
+        //var x = $.gDeviceSettings.screenWidth/2;
+        //var y = $.gDeviceSettings.screenHeight/2;
+        // erase the background (if any)
+        dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
+        dc.setPenWidth(5);
+        //dc.drawArc(center_x, center_y, r-3, Gfx.ARC_COUNTER_CLOCKWISE, 170, 207);
+
+        if (fillPercent > 0) {
+            var arcSize = fillPercent*ARC_MAX;
+            // only show a completed step bar if we've reached our goal
+            if (arcSize > ARC_MAX-1 && arcSize != ARC_MAX && fillPercent != 1.0) {
+                arcSize = ARC_MAX-1;
+            } else if (arcSize <= 0.51) {
+                arcSize = 1;
+            }
+            dc.setColor(fillColor, Gfx.COLOR_TRANSPARENT);
+            dc.setPenWidth(5);
+            dc.drawArc(center_x, center_y, r-3, Gfx.ARC_COUNTER_CLOCKWISE, 319, 320+arcSize);
+        }
+        dc.setColor(borderColor, Gfx.COLOR_TRANSPARENT);
+        dc.setPenWidth(1);
+        // draw the outer and inner arc borders
+        dc.drawArc(center_x, center_y, r, Gfx.ARC_CLOCKWISE, 319+ARC_MAX, 319);
+        // draw the top and bottom borders
+        for (var i=0; i < 6; i++) {
+            dc.drawArc(center_x, center_y, r-i, Gfx.ARC_CLOCKWISE, 320, 319);
+            dc.drawArc(center_x, center_y, r-i, Gfx.ARC_CLOCKWISE, 5, 4);
+        }
+        
+        var stairPercent = activityInfo.floorsClimbed.toFloat()/activityInfo.floorsClimbedGoal.toFloat();
+        fillPercent = stairPercent;
+        borderColor = Gfx.COLOR_WHITE;
+        fillColor = Gfx.COLOR_DK_RED;
+       
+        //don't let the percentage completely exceed 100%
+        if (fillPercent > 1.0) {
+           fillPercent = 1.0;
+        }
+        //var x = $.gDeviceSettings.screenWidth/2;
+        //var y = $.gDeviceSettings.screenHeight/2;
+        // erase the background (if any)
+        dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
+        dc.setPenWidth(5);
+        //dc.drawArc(center_x, center_y, r-3, Gfx.ARC_COUNTER_CLOCKWISE, 170, 207);
+
+		var arcMax = 75;
+        if (fillPercent > 0) {
+            var arcSize = fillPercent*arcMax;
+            // only show a completed step bar if we've reached our goal
+            if (arcSize > arcMax-1 && arcSize != arcMax && fillPercent != 1.0) {
+                arcSize = arcMax-1;
+            } else if (arcSize <= 0.51) {
+                arcSize = 1;
+            }
+            dc.setColor(fillColor, Gfx.COLOR_TRANSPARENT);
+            dc.setPenWidth(5);
+            dc.drawArc(center_x, center_y, r-3, Gfx.ARC_COUNTER_CLOCKWISE, 232, 232+arcSize);
+        }
+        dc.setColor(borderColor, Gfx.COLOR_TRANSPARENT);
+        dc.setPenWidth(1);
+        // draw the outer and inner arc borders
+        dc.drawArc(center_x, center_y, r, Gfx.ARC_CLOCKWISE, 232+arcMax, 232);
+        // draw the top and bottom borders
+        for (var i=0; i < 6; i++) {
+            dc.drawArc(center_x, center_y, r-i, Gfx.ARC_CLOCKWISE, 233, 232);
+            dc.drawArc(center_x, center_y, r-i, Gfx.ARC_CLOCKWISE, 308, 307);
         }
     }
     
@@ -303,17 +372,13 @@ class TriforceWatchFaceView extends Ui.WatchFace {
         var moveBarLevel = Toybox.ActivityMonitor.getInfo().moveBarLevel;
         // if the move bar level is above the minimum then display the indicator...
         if (moveBarLevel > Toybox.ActivityMonitor.MOVE_BAR_LEVEL_MIN) {
-            dc.setColor(Gfx.COLOR_DK_RED, Gfx.COLOR_TRANSPARENT);
-
-            //var x = $.gDeviceSettings.screenWidth/2;
-            //var y = $.gDeviceSettings.screenHeight/2;
-            var r = center_x-5;
-            dc.setPenWidth(5);
-            for (var i=1; i < moveBarLevel; i++) {
-                dc.drawArc(center_x, center_y, center_x-3, Gfx.ARC_COUNTER_CLOCKWISE, 3+i*5, 6+i*5);
-            }
-            dc.drawArc(center_x, center_y, center_x-3, Gfx.ARC_COUNTER_CLOCKWISE, 333, 351);
-            dc.setPenWidth(1);
+        	dc.drawBitmap(center_x-farore.getWidth()/2, center_y+5-farore.getHeight(), emptyTriforce);
+        	if (moveBarLevel > Toybox.ActivityMonitor.MOVE_BAR_LEVEL_MAX/2) {
+            	dc.drawBitmap(center_x-farore.getWidth(), center_y+5, emptyTriforce);
+            	if (moveBarLevel >= Toybox.ActivityMonitor.MOVE_BAR_LEVEL_MAX) {
+	    			dc.drawBitmap(center_x, center_y+5, emptyTriforce);
+	    		}
+	    	}	
         }
     }
 }

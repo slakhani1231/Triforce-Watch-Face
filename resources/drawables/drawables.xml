@@ -26,5 +26,5 @@
     <bitmap id="nayru" filename="nayru.png" />
     <bitmap id="stairs" filename="stairs.png" />
     <bitmap id="steps" filename="steps.png" />
-    <bitmap id="triforce" filename="triforce.png" />
+    <bitmap id="emptyTriforce" filename="moveTriangle.png" />
 </drawables>
