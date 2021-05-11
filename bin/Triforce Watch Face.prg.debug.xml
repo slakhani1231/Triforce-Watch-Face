@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="4" lineNum="43" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="4" lineNum="44" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="48" pc="268435479" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="49" pc="268435483" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="51" pc="268435520" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="52" pc="268435563" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="53" pc="268435606" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="54" pc="268435649" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="55" pc="268435692" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="56" pc="268435735" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="57" pc="268435778" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="58" pc="268435821" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="59" pc="268435864" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="60" pc="268435907" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="61" pc="268435950" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="62" pc="268435993" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="63" pc="268436036" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="64" pc="268436079" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="65" pc="268436122" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="66" pc="268436165" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="67" pc="268436208" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="68" pc="268436251" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="69" pc="268436294" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="70" pc="268436337" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="71" pc="268436380" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="72" pc="268436423" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="74" pc="268436466" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="5" lineNum="75" pc="268436491" symbol="onLayout"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="6" lineNum="81" pc="268436517" symbol="onShow"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="85" pc="268436522" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="87" pc="268436526" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="89" pc="268436543" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="93" pc="268436560" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="94" pc="268436580" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="95" pc="268436640" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="96" pc="268436682" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="98" pc="268436766" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="100" pc="268436780" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="101" pc="268436805" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="102" pc="268436842" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="103" pc="268436858" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="104" pc="268436872" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="105" pc="268436886" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="106" pc="268436900" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="107" pc="268436914" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="108" pc="268436928" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="7" lineNum="109" pc="268436952" symbol="onUpdate"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="112" pc="268436983" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="113" pc="268436987" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="114" pc="268436997" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="117" pc="268437021" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="118" pc="268437057" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="119" pc="268437063" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="120" pc="268437070" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="121" pc="268437080" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="122" pc="268437085" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="123" pc="268437095" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="125" pc="268437105" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="127" pc="268437212" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="128" pc="268437278" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="8" lineNum="129" pc="268437341" symbol="drawTime"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="9" lineNum="135" pc="268437408" symbol="onHide"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="10" lineNum="139" pc="268437413" symbol="onExitSleep"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="11" lineNum="143" pc="268437418" symbol="onEnterSleep"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="146" pc="268437423" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="147" pc="268437427" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="148" pc="268437450" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="151" pc="268437466" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="152" pc="268437491" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="153" pc="268437518" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="154" pc="268437543" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="157" pc="268437582" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="158" pc="268437607" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="159" pc="268437634" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="160" pc="268437659" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="163" pc="268437698" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="164" pc="268437723" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="165" pc="268437750" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="166" pc="268437775" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="169" pc="268437814" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="170" pc="268437839" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="171" pc="268437866" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="172" pc="268437891" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="175" pc="268437930" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="176" pc="268437955" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="177" pc="268437982" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="178" pc="268438007" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="181" pc="268438046" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="182" pc="268438071" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="183" pc="268438098" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="184" pc="268438123" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="187" pc="268438162" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="188" pc="268438187" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="189" pc="268438214" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="190" pc="268438239" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="193" pc="268438278" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="194" pc="268438303" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="195" pc="268438330" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="196" pc="268438355" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="199" pc="268438394" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="200" pc="268438419" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="201" pc="268438446" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="202" pc="268438471" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="205" pc="268438510" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="206" pc="268438535" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="207" pc="268438562" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="12" lineNum="208" pc="268438587" symbol="updateBattery"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="260" pc="268439789" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="261" pc="268439793" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="262" pc="268439797" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="263" pc="268439811" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="266" pc="268439825" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="267" pc="268439836" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="271" pc="268439846" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="273" pc="268439862" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="274" pc="268439898" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="275" pc="268439915" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="277" pc="268439973" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="278" pc="268439984" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="280" pc="268439997" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="281" pc="268440048" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="282" pc="268440067" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="283" pc="268440078" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="285" pc="268440088" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="286" pc="268440114" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="287" pc="268440131" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="289" pc="268440195" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="290" pc="268440221" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="292" pc="268440238" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="293" pc="268440290" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="295" pc="268440348" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="296" pc="268440366" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="19" lineNum="297" pc="268440421" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="20" lineNum="302" pc="268440490" symbol="drawMoveWarning"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="20" lineNum="303" pc="268440494" symbol="drawMoveWarning"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="20" lineNum="305" pc="268440525" symbol="drawMoveWarning"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="20" lineNum="306" pc="268440551" symbol="drawMoveWarning"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="20" lineNum="310" pc="268440587" symbol="drawMoveWarning"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="20" lineNum="311" pc="268440603" symbol="drawMoveWarning"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="20" lineNum="312" pc="268440620" symbol="drawMoveWarning"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="20" lineNum="313" pc="268440635" symbol="drawMoveWarning"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="20" lineNum="315" pc="268440730" symbol="drawMoveWarning"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceView.mc" id="20" lineNum="316" pc="268440794" symbol="drawMoveWarning"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceApp.mc" id="22" lineNum="7" pc="268440815" symbol="initialize"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceApp.mc" id="22" lineNum="8" pc="268440819" symbol="initialize"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceApp.mc" id="23" lineNum="12" pc="268440838" symbol="onStart"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceApp.mc" id="24" lineNum="16" pc="268440843" symbol="onStop"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceApp.mc" id="25" lineNum="20" pc="268440848" symbol="getInitialView"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceApp.mc" id="25" lineNum="21" pc="268440852" symbol="getInitialView"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceApp.mc" id="26" lineNum="25" pc="268440890" symbol="onSettingsChanged"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceApp.mc" id="26" lineNum="26" pc="268440894" symbol="onSettingsChanged"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceApp.mc" id="27" lineNum="31" pc="268440911" symbol="getApp"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceApp.mc" id="27" lineNum="32" pc="268440923" symbol="getApp"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceBackground.mc" id="29" lineNum="8" pc="268440940" symbol="initialize"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceBackground.mc" id="29" lineNum="9" pc="268440944" symbol="initialize"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceBackground.mc" id="29" lineNum="13" pc="268440965" symbol="initialize"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceBackground.mc" id="30" lineNum="16" pc="268440986" symbol="draw"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceBackground.mc" id="30" lineNum="18" pc="268440990" symbol="draw"/>
+        <entry filename="/Users/slakhani/eclipse-workspace/Triforce Watch Face/source/TriforceWatchFaceBackground.mc" id="30" lineNum="19" pc="268441039" symbol="draw"/>
+        <entry filename="Rez" id="36" lineNum="47" pc="268441052" symbol="WatchFace"/>
+        <entry filename="Rez" id="36" lineNum="49" pc="268441064" symbol="WatchFace"/>
+        <entry filename="Rez" id="36" lineNum="50" pc="268441088" symbol="WatchFace"/>
+        <entry filename="Rez" id="36" lineNum="52" pc="268441251" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="51" symbol="oneheart"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="61" symbol="darkNavi"/>
+        <entry field="true" id="20" symbol="two5hearts"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="5" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="73" symbol="ColorRed"/>
+        <entry field="true" id="26" symbol="hour_radius"/>
+        <entry field="true" id="55" symbol="fiveheart"/>
+        <entry field="true" id="54" symbol="fourheart"/>
+        <entry field="true" id="69" symbol="calamitysans"/>
+        <entry field="true" id="77" symbol="MilitaryFormatTitle"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="72" symbol="ColorBlue"/>
+        <entry id="35" method="true" symbol="drawTime"/>
+        <entry id="43" method="true" symbol="drawStepsIndicator"/>
+        <entry field="true" id="80" symbol="AppName"/>
+        <entry id="9" module="true" symbol="globals/Rez/Strings"/>
+        <entry field="true" id="17" symbol="fivehearts"/>
+        <entry id="8388772" module="true" symbol="Fonts"/>
+        <entry field="true" id="8388912" symbol="steps"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="3" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="41" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;"/>
+        <entry id="8388771" module="true" symbol="Drawables"/>
+        <entry field="true" id="8389348" symbol="font"/>
+        <entry field="true" id="46" symbol="RAD_90_DEG"/>
+        <entry id="48" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry field="true" id="76" symbol="ColorDarkGray"/>
+        <entry id="7" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="21" symbol="three5hearts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="39" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
+        <entry field="true" id="65" symbol="filledTriforce"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="62" symbol="emptyTriforce"/>
+        <entry field="true" id="53" symbol="threeheart"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="36" method="true" symbol="updateBattery"/>
+        <entry field="true" id="70" symbol="fonty"/>
+        <entry field="true" id="79" symbol="ColorWhite"/>
+        <entry id="8" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8389892" symbol="background"/>
+        <entry field="true" id="78" symbol="ColorBlack"/>
+        <entry id="4" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="16" symbol="fourhearts"/>
+        <entry field="true" id="12" symbol="zerohearts"/>
+        <entry id="40" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
+        <entry id="37" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry field="true" id="56" symbol="zero5heart"/>
+        <entry field="true" id="66" symbol="moveTriangle"/>
+        <entry field="true" id="18" symbol="zero5hearts"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388769" module="true" symbol="Rez"/>
+        <entry field="true" id="45" symbol="ARC_MAX"/>
+        <entry field="true" id="64" symbol="filledTriangle"/>
+        <entry field="true" id="19" symbol="one5hearts"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="67" symbol="triforce"/>
+        <entry id="8390088" module="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="68" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="30" symbol="farore"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="2" module="true" symbol="globals/TriforceWatchFaceView"/>
+        <entry id="10" object="true" symbol="TriforceWatchFaceView"/>
+        <entry field="true" id="24" symbol="center_y"/>
+        <entry field="true" id="23" symbol="center_x"/>
+        <entry field="true" id="15" symbol="threehearts"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="75" symbol="BackgroundColorTitle"/>
+        <entry field="true" id="25" symbol="minute_radius"/>
+        <entry id="8388770" module="true" symbol="Strings"/>
+        <entry field="true" id="22" symbol="four5hearts"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="33" symbol="navi"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="59" symbol="three5heart"/>
+        <entry field="true" id="28" symbol="threeQuarterHeart"/>
+        <entry id="42" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
+        <entry field="true" id="63" symbol="faroreL"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="13" symbol="onehearts"/>
+        <entry id="38" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setBatteryDisplay&gt;"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry field="true" id="31" symbol="din"/>
+        <entry field="true" id="14" symbol="twohearts"/>
+        <entry field="true" id="57" symbol="one5heart"/>
+        <entry field="true" id="32" symbol="stairs"/>
+        <entry field="true" id="71" symbol="ColorLightGray"/>
+        <entry field="true" id="60" symbol="four5heart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="58" symbol="two5heart"/>
+        <entry field="true" id="34" symbol="darknavi"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="44" method="true" symbol="drawMoveWarning"/>
+        <entry field="true" id="74" symbol="ForegroundColorTitle"/>
+        <entry id="47" module="true" symbol="Layouts"/>
+        <entry field="true" id="49" symbol="myBackground"/>
+        <entry field="true" id="52" symbol="twoheart"/>
+        <entry field="true" id="27" symbol="quarterHeart"/>
+        <entry id="6" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="50" symbol="zeroheart"/>
+        <entry id="11" object="true" symbol="TriforceWatchFaceApp"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="29" symbol="nayru"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268436517" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268436982" name="now" stackId="2" startPc="268436526"/>
+        <entry endPc="268436982" name="activityInfo" stackId="4" startPc="268436526"/>
+        <entry endPc="268436982" name="settings" stackId="3" startPc="268436526"/>
+        <entry endPc="268436982" name="stepPercent" stackId="5" startPc="268436526"/>
+        <entry arg="true" endPc="268436983" name="dc" stackId="1" startPc="268436522"/>
+        <entry endPc="268437209" name="isPm" stackId="7" startPc="268437063"/>
+        <entry endPc="268437209" name="amPm" stackId="6" startPc="268437063"/>
+        <entry endPc="268437407" name="hours" stackId="4" startPc="268436987"/>
+        <entry endPc="268437407" name="min" stackId="5" startPc="268436987"/>
+        <entry arg="true" endPc="268437408" name="dc" stackId="1" startPc="268436983"/>
+        <entry arg="true" endPc="268437408" name="clockTime" stackId="2" startPc="268436983"/>
+        <entry arg="true" endPc="268437408" name="is24hour" stackId="3" startPc="268436983"/>
+        <entry endPc="268438626" name="battery" stackId="2" startPc="268437427"/>
+        <entry endPc="268438626" name="position_x" stackId="3" startPc="268437427"/>
+        <entry arg="true" endPc="268438627" name="dc" stackId="1" startPc="268437423"/>
+        <entry endPc="268438857" name="date" stackId="3" startPc="268438631"/>
+        <entry endPc="268438857" name="now" stackId="2" startPc="268438631"/>
+        <entry endPc="268438857" name="dateString" stackId="4" startPc="268438631"/>
+        <entry arg="true" endPc="268438858" name="dc" stackId="1" startPc="268438627"/>
+        <entry endPc="268438943" name="battery" stackId="1" startPc="268438862"/>
+        <entry endPc="268438943" name="batteryDisplay" stackId="2" startPc="268438862"/>
+        <entry endPc="268439224" name="textDim" stackId="3" startPc="268438948"/>
+        <entry endPc="268439224" name="stepCount" stackId="2" startPc="268438948"/>
+        <entry arg="true" endPc="268439225" name="dc" stackId="1" startPc="268438944"/>
+        <entry endPc="268439401" name="stairCount" stackId="2" startPc="268439229"/>
+        <entry arg="true" endPc="268439402" name="dc" stackId="1" startPc="268439225"/>
+        <entry endPc="268439560" name="actMin" stackId="2" startPc="268439406"/>
+        <entry arg="true" endPc="268439561" name="dc" stackId="1" startPc="268439402"/>
+        <entry endPc="268439788" name="notifications" stackId="4" startPc="268439565"/>
+        <entry arg="true" endPc="268439789" name="dc" stackId="1" startPc="268439561"/>
+        <entry arg="true" endPc="268439789" name="notificationCount" stackId="3" startPc="268439561"/>
+        <entry arg="true" endPc="268439789" name="phoneConnected" stackId="2" startPc="268439561"/>
+        <entry endPc="268440192" name="arcSize" stackId="7" startPc="268439984"/>
+        <entry endPc="268440489" name="i" stackId="8" startPc="268440366"/>
+        <entry endPc="268440489" name="r" stackId="6" startPc="268439793"/>
+        <entry endPc="268440489" name="fillPercent" stackId="3" startPc="268439793"/>
+        <entry endPc="268440489" name="fillColor" stackId="5" startPc="268439793"/>
+        <entry endPc="268440489" name="borderColor" stackId="4" startPc="268439793"/>
+        <entry arg="true" endPc="268440490" name="dc" stackId="1" startPc="268439789"/>
+        <entry arg="true" endPc="268440490" name="stepPercent" stackId="2" startPc="268439789"/>
+        <entry endPc="268440730" name="i" stackId="4" startPc="268440635"/>
+        <entry endPc="268440811" name="r" stackId="3" startPc="268440551"/>
+        <entry endPc="268440814" name="moveBarLevel" stackId="2" startPc="268440494"/>
+        <entry arg="true" endPc="268440815" name="dc" stackId="1" startPc="268440490"/>
+        <entry arg="true" endPc="268440843" name="state" stackId="1" startPc="268440838"/>
+        <entry arg="true" endPc="268440848" name="state" stackId="1" startPc="268440843"/>
+        <entry endPc="268440985" name="dictionary" stackId="1" startPc="268440944"/>
+        <entry arg="true" endPc="268441052" name="dc" stackId="1" startPc="268440986"/>
+        <entry endPc="268441278" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268441064"/>
+        <entry endPc="268441278" name="rez_cmp_local_custom_drawable_35933122132762206715" stackId="2" startPc="268441064"/>
+        <entry arg="true" endPc="268441279" name="dc" stackId="1" startPc="268441052"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="myBackground"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="zeroheart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="oneheart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="quarterHeart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="twoheart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="threeheart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="threeQuarterHeart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="fourheart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="fiveheart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="zero5heart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="one5heart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="two5heart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="three5heart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="four5heart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="darkNavi"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="din"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="emptyTriforce"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="farore"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="faroreL"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="filledTriangle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="filledTriforce"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="moveTriangle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="navi"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="nayru"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="stairs"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="steps"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="triforce"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="calamitysans"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="fonty"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="95" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Background" offset="174" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/TriforceWatchFaceView" offset="229" parentId="globals" symbolId="TriforceWatchFaceView" type="class"/>
+        <dataEntry label="globals/TriforceWatchFaceView/statics" offset="612" parentId="globals" symbolId="globals/TriforceWatchFaceView" type="class"/>
+        <dataEntry label="globals/Rez" offset="659" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="738" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="993" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="1024" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1071" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1110" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1141" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/TriforceWatchFaceApp" offset="1252" parentId="globals" symbolId="TriforceWatchFaceApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="TriforceWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="TriforceWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="TriforceWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="TriforceWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTime" parent="TriforceWatchFaceView">
+            <param id="dc"/>
+            <param id="clockTime"/>
+            <param id="is24hour"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="TriforceWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="TriforceWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="TriforceWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateBattery" parent="TriforceWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;" parent="TriforceWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setBatteryDisplay&gt;" parent="TriforceWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;" parent="TriforceWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;" parent="TriforceWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;" parent="TriforceWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;" parent="TriforceWatchFaceView">
+            <param id="dc"/>
+            <param id="phoneConnected"/>
+            <param id="notificationCount"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawStepsIndicator" parent="TriforceWatchFaceView">
+            <param id="dc"/>
+            <param id="stepPercent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawMoveWarning" parent="TriforceWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="TriforceWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="TriforceWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="TriforceWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="TriforceWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="TriforceWatchFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

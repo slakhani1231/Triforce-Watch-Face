@@ -1,0 +1,30 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="myBackground" filename="backgroundTransparent.png" />
+    <bitmap id="zeroheart" filename="0heartsAlias.png" />
+    <bitmap id="oneheart" filename="1heartsAlias.png" />
+    <bitmap id="quarterHeart" filename="1quarterheartalias.png" />
+    <bitmap id="twoheart" filename="2heartsAlias.png" />
+    <bitmap id="threeheart" filename="3heartsAlias.png" />
+    <bitmap id="threeQuarterHeart" filename="3quarterheartalias.png" />
+    <bitmap id="fourheart" filename="4heartsAlias.png" />
+    <bitmap id="fiveheart" filename="5heartsAlias.png" />
+    <bitmap id="zero5heart" filename="05heartsAlias.png" />
+    <bitmap id="one5heart" filename="15heartsAlias.png" />
+    <bitmap id="two5heart" filename="25heartsAlias.png" />
+    <bitmap id="three5heart" filename="35heartsAlias.png" />
+    <bitmap id="four5heart" filename="45heartsAlias.png" />
+    <bitmap id="darkNavi" filename="darknavi.png" />
+    <bitmap id="din" filename="din.png" />
+    <bitmap id="emptyTriforce" filename="emptyTriforce.png" />
+    <bitmap id="farore" filename="farore.png" />
+    <bitmap id="faroreL" filename="faroreL.png" />
+    <bitmap id="filledTriangle" filename="filledTriangle.png" />
+    <bitmap id="filledTriforce" filename="filledTriforce.png" />
+    <bitmap id="moveTriangle" filename="moveTriangle.png" />
+    <bitmap id="navi" filename="navi.png" />
+    <bitmap id="nayru" filename="nayru.png" />
+    <bitmap id="stairs" filename="stairs.png" />
+    <bitmap id="steps" filename="steps.png" />
+    <bitmap id="triforce" filename="triforce.png" />
+</drawables>
