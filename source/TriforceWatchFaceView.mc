@@ -144,66 +144,67 @@ class TriforceWatchFaceView extends Ui.WatchFace {
     function updateBattery(dc) {
         var battery = Sys.getSystemStats().battery;
         var position_x = center_x-36;
+        var position_y = center_y/20;
     	//var batteryDisplay = View.findDrawableById("BatteryDisplay");  
     
     	if (battery <= 100 and battery > 90) { //5 hearts
-    		dc.drawBitmap(position_x, 5, fivehearts);
+    		dc.drawBitmap(position_x, position_y, fivehearts);
     		if (battery > 90 and battery <= 95) {
-    			dc.drawBitmap(position_x+61, 5, threeQuarterHeart);
+    			dc.drawBitmap(position_x+61, position_y, threeQuarterHeart);
     		}
         }
         else if (battery > 80 and battery <= 90) { //4.5 hearts
-            dc.drawBitmap(position_x, 5, four5hearts);
+            dc.drawBitmap(position_x, position_y, four5hearts);
             if (battery > 80 and battery <= 85) {
-            	dc.drawBitmap(position_x+61, 5, quarterHeart);
+            	dc.drawBitmap(position_x+61, position_y, quarterHeart);
             }
         }
         else if (battery > 70 and battery <= 80) { //4 hearts
-    		dc.drawBitmap(position_x, 5, fourhearts);
+    		dc.drawBitmap(position_x, position_y, fourhearts);
     		if (battery > 70 and battery <= 75) {
-    			dc.drawBitmap(position_x+46, 5, threeQuarterHeart);
+    			dc.drawBitmap(position_x+46, position_y, threeQuarterHeart);
     		}
         }
         else if (battery > 60 and battery <= 70) { //3.5 hearts
-    		dc.drawBitmap(position_x, 5, three5hearts);
+    		dc.drawBitmap(position_x, position_y, three5hearts);
     		if (battery > 60 and battery <= 65) {
-    			dc.drawBitmap(position_x+46, 5, quarterHeart);
+    			dc.drawBitmap(position_x+46, position_y, quarterHeart);
     		}
         }
         else if (battery > 50 and battery <= 60) { //3 hearts
-    		dc.drawBitmap(position_x, 5, threehearts);
+    		dc.drawBitmap(position_x, position_y, threehearts);
     		if (battery > 50 and battery <= 55) {
-    			dc.drawBitmap(position_x+30, 5, threeQuarterHeart);
+    			dc.drawBitmap(position_x+30, position_y, threeQuarterHeart);
     		}
         }
         else if (battery > 40 and battery <= 50) { //2.5 hearts
-    		dc.drawBitmap(position_x, 5, two5hearts);
+    		dc.drawBitmap(position_x, position_y, two5hearts);
     		if (battery > 40 and battery <= 45) {
-    			dc.drawBitmap(position_x+30, 5, quarterHeart);
+    			dc.drawBitmap(position_x+30, position_y, quarterHeart);
     		}
         }
         else if (battery > 30 and battery <= 40) { //2 hearts
-    		dc.drawBitmap(position_x, 5, twohearts);
+    		dc.drawBitmap(position_x, position_y, twohearts);
     		if (battery > 30 and battery <= 35) {
-    			dc.drawBitmap(position_x+15, 5, threeQuarterHeart);
+    			dc.drawBitmap(position_x+15, position_y, threeQuarterHeart);
     		}
         }
         else if (battery > 20 and battery <= 30) { //1.5 hearts
-    		dc.drawBitmap(position_x, 5, one5hearts);
+    		dc.drawBitmap(position_x, position_y, one5hearts);
     		if (battery > 20 and battery <= 25) {
-    			dc.drawBitmap(position_x+15, 5, quarterHeart);
+    			dc.drawBitmap(position_x+15, position_y, quarterHeart);
     		}
         }
         else if (battery > 10 and battery <= 20) { //1 heart
-    		dc.drawBitmap(position_x, 5, onehearts);
+    		dc.drawBitmap(position_x, position_y, onehearts);
     		if (battery > 10 and battery <= 15) { //3/4 heart
-        		dc.drawBitmap(position_x-1, 5, threeQuarterHeart);
+        		dc.drawBitmap(position_x-1, position_y, threeQuarterHeart);
         	} 	
         }
         else if (battery > 0 and battery <= 10) { //.5 hearts
-            dc.drawBitmap(position_x, 5, zero5hearts);
+            dc.drawBitmap(position_x, position_y, zero5hearts);
         	if (battery > 0 and battery <= 5) { //1/4 heart
-        		dc.drawBitmap(position_x-1, 5, quarterHeart);
+        		dc.drawBitmap(position_x-1, position_y, quarterHeart);
         	}	
         }
     }
@@ -261,7 +262,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
         }
         //var x = $.gDeviceSettings.screenWidth/2;
         //var y = $.gDeviceSettings.screenHeight/2;
-        var r = center_x-1;
+        var r = center_x-2;
         // erase the background (if any)
         dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
         dc.setPenWidth(5);
@@ -272,7 +273,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
             // only show a completed step bar if we've reached our goal
             if (arcSize > ARC_MAX-1 && arcSize != ARC_MAX && fillPercent != 1.0) {
                 arcSize = ARC_MAX-1;
-            } else if (arcSize <= 0.51) {
+            } else if (arcSize <= 1) {
                 arcSize = 1;
             }
             dc.setColor(fillColor, Gfx.COLOR_TRANSPARENT);
@@ -310,7 +311,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
             // only show a completed step bar if we've reached our goal
             if (arcSize > ARC_MAX-1 && arcSize != ARC_MAX && fillPercent != 1.0) {
                 arcSize = ARC_MAX-1;
-            } else if (arcSize <= 0.51) {
+            } else if (arcSize <= 1) {
                 arcSize = 1;
             }
             dc.setColor(fillColor, Gfx.COLOR_TRANSPARENT);
@@ -349,7 +350,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
             // only show a completed step bar if we've reached our goal
             if (arcSize > arcMax-1 && arcSize != arcMax && fillPercent != 1.0) {
                 arcSize = arcMax-1;
-            } else if (arcSize <= 0.51) {
+            } else if (arcSize <= 1) {
                 arcSize = 1;
             }
             dc.setColor(fillColor, Gfx.COLOR_TRANSPARENT);
