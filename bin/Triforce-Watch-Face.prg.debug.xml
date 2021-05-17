@@ -209,10 +209,10 @@
         <entry filename="/Users/slakhani/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceBackground.mc" id="29" lineNum="16" pc="268442225" symbol="draw"/>
         <entry filename="/Users/slakhani/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceBackground.mc" id="29" lineNum="18" pc="268442229" symbol="draw"/>
         <entry filename="/Users/slakhani/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceBackground.mc" id="29" lineNum="19" pc="268442278" symbol="draw"/>
-        <entry filename="Rez" id="35" lineNum="46" pc="268442291" symbol="WatchFace"/>
-        <entry filename="Rez" id="35" lineNum="48" pc="268442303" symbol="WatchFace"/>
-        <entry filename="Rez" id="35" lineNum="49" pc="268442327" symbol="WatchFace"/>
-        <entry filename="Rez" id="35" lineNum="51" pc="268442490" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="45" pc="268442291" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="47" pc="268442303" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="48" pc="268442327" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="50" pc="268442490" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry field="true" id="49" symbol="oneheart"/>
@@ -382,7 +382,7 @@
         <entry endPc="268442224" name="dictionary" stackId="1" startPc="268442183"/>
         <entry arg="true" endPc="268442291" name="dc" stackId="1" startPc="268442225"/>
         <entry endPc="268442517" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268442303"/>
-        <entry endPc="268442517" name="rez_cmp_local_custom_drawable_56293786316383626911" stackId="2" startPc="268442303"/>
+        <entry endPc="268442517" name="rez_cmp_local_custom_drawable_64013748210936588801" stackId="2" startPc="268442303"/>
         <entry arg="true" endPc="268442518" name="dc" stackId="1" startPc="268442291"/>
     </localVars>
     <annotations>
@@ -406,7 +406,6 @@
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="farore"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="faroreL"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="filledTriangle"/>
-        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="filledTriforce"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="moveTriangle"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="navi"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="nayru"/>
@@ -433,12 +432,12 @@
         <dataEntry label="globals/TriforceWatchFaceView/statics" offset="604" parentId="globals" symbolId="globals/TriforceWatchFaceView" type="class"/>
         <dataEntry label="globals/Rez" offset="643" parentId="globals" symbolId="Rez" type="module"/>
         <dataEntry label="globals/Rez/Drawables" offset="722" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Menus" offset="969" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry label="globals/Rez/Fonts" offset="1000" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="1047" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="1086" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="1117" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/TriforceWatchFaceApp" offset="1228" parentId="globals" symbolId="TriforceWatchFaceApp" type="class"/>
+        <dataEntry label="globals/Rez/Menus" offset="961" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="992" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1039" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1078" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1109" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/TriforceWatchFaceApp" offset="1220" parentId="globals" symbolId="TriforceWatchFaceApp" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="TriforceWatchFaceApp">

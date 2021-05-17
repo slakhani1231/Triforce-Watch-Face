@@ -20,7 +20,6 @@
     <bitmap id="farore" filename="farore.png" />
     <bitmap id="faroreL" filename="faroreL.png" />
     <bitmap id="filledTriangle" filename="filledTriangle.png" />
-    <bitmap id="filledTriforce" filename="filledTriforce.png" />
     <bitmap id="moveTriangle" filename="moveTriangle.png" />
     <bitmap id="navi" filename="navi.png" />
     <bitmap id="nayru" filename="nayru.png" />
