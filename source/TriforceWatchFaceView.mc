@@ -36,6 +36,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
     var navi;
     var darknavi;
     var emptyTriforce;
+    var filledTriforce;
     static const ARC_MAX = 45; //length of the arc for the step indicator
     
     function initialize() {
@@ -69,6 +70,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
         darknavi = Ui.loadResource(Rez.Drawables.darkNavi);
         emptyTriforce = Ui.loadResource(Rez.Drawables.emptyTriforce);
         font = Ui.loadResource( Rez.Fonts.fonty );
+        filledTriforce = Ui.loadResource(Rez.Drawables.filledTriangle);
         
         center_x = dc.getWidth()/2;
         center_y = dc.getHeight()/2;
@@ -120,11 +122,11 @@ class TriforceWatchFaceView extends Ui.WatchFace {
 	    		hours = hours - 12;
 	    		amPm = "pm";
 	    	}
-	    	dc.drawText(center_x + dc.getTextDimensions(min, Gfx.FONT_SMALL)[0]+5, center_y-82, Gfx.FONT_SYSTEM_TINY, amPm, Gfx.TEXT_JUSTIFY_LEFT);
+	    	dc.drawText(center_x + dc.getTextDimensions(min, Gfx.FONT_MEDIUM)[0]+6, center_y-81, Gfx.FONT_SYSTEM_TINY, amPm, Gfx.TEXT_JUSTIFY_LEFT);
 	    }
-	    dc.drawText(center_x-5, center_y-80, Gfx.FONT_SMALL, hours, Gfx.TEXT_JUSTIFY_RIGHT);
-	    dc.drawText(center_x, center_y-80, Gfx.FONT_SMALL, ":", Gfx.TEXT_JUSTIFY_CENTER);
-	    dc.drawText(center_x+5, center_y-80, Gfx.FONT_SMALL, min, Gfx.TEXT_JUSTIFY_LEFT);
+	    dc.drawText(center_x-5, center_y-80, Gfx.FONT_MEDIUM, hours, Gfx.TEXT_JUSTIFY_RIGHT);
+	    dc.drawText(center_x, center_y-80, Gfx.FONT_MEDIUM, ":", Gfx.TEXT_JUSTIFY_CENTER);
+	    dc.drawText(center_x+5, center_y-80, Gfx.FONT_MEDIUM, min, Gfx.TEXT_JUSTIFY_LEFT);
     }
 
     // Called when this View is removed from the screen. Save the
@@ -144,7 +146,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
     function updateBattery(dc) {
         var battery = Sys.getSystemStats().battery;
         var position_x = center_x-36;
-        var position_y = center_y/20;
+        var position_y = center_y/20+5;
     	//var batteryDisplay = View.findDrawableById("BatteryDisplay");  
     
     	if (battery <= 100 and battery > 90) { //5 hearts
@@ -259,9 +261,9 @@ class TriforceWatchFaceView extends Ui.WatchFace {
         //don't let the percentage completely exceed 100%
         if (fillPercent > 1.0) {
            fillPercent = 1.0;
+           dc.drawBitmap(center_x-farore.getWidth(), center_y+5, filledTriforce);
         }
-        //var x = $.gDeviceSettings.screenWidth/2;
-        //var y = $.gDeviceSettings.screenHeight/2;
+
         var r = center_x-2;
         // erase the background (if any)
         dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
@@ -298,9 +300,9 @@ class TriforceWatchFaceView extends Ui.WatchFace {
         //don't let the percentage completely exceed 100%
         if (fillPercent > 1.0) {
            fillPercent = 1.0;
+           dc.drawBitmap(center_x, center_y+5, filledTriforce);
         }
-        //var x = $.gDeviceSettings.screenWidth/2;
-        //var y = $.gDeviceSettings.screenHeight/2;
+
         // erase the background (if any)
         dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
         dc.setPenWidth(5);
@@ -336,13 +338,8 @@ class TriforceWatchFaceView extends Ui.WatchFace {
         //don't let the percentage completely exceed 100%
         if (fillPercent > 1.0) {
            fillPercent = 1.0;
+           dc.drawBitmap(center_x-farore.getWidth()/2, center_y+5-farore.getHeight(), filledTriforce);
         }
-        //var x = $.gDeviceSettings.screenWidth/2;
-        //var y = $.gDeviceSettings.screenHeight/2;
-        // erase the background (if any)
-        dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
-        dc.setPenWidth(5);
-        //dc.drawArc(center_x, center_y, r-3, Gfx.ARC_COUNTER_CLOCKWISE, 170, 207);
 
 		var arcMax = 75;
         if (fillPercent > 0) {
