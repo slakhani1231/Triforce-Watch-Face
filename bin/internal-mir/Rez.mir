@@ -1,0 +1,202 @@
+[ @file = "Rez.mc"; @line = 1; ]
+module Rez {
+    [ @file = "Rez.mc"; @line = 1; ]
+    <init> {
+    }
+    [ @file = "Rez.mc"; @line = 2; ]
+    module Drawables {
+        [ @file = "Rez.mc"; @line = 2; ]
+        <init> {
+        }
+        [ @file = "Rez.mc"; @line = 3; ]
+        import Toybox.Lang;
+        [ @file = "Rez.mc"; @line = 4; @position = 19; initialized = true; ]
+        var myBackground as Symbol;
+        [ @file = "Rez.mc"; @line = 5; @position = 19; initialized = true; ]
+        var zeroheart as Symbol;
+        [ @file = "Rez.mc"; @line = 6; @position = 19; initialized = true; ]
+        var oneheart as Symbol;
+        [ @file = "Rez.mc"; @line = 7; @position = 19; initialized = true; ]
+        var quarterHeart as Symbol;
+        [ @file = "Rez.mc"; @line = 8; @position = 19; initialized = true; ]
+        var twoheart as Symbol;
+        [ @file = "Rez.mc"; @line = 9; @position = 19; initialized = true; ]
+        var threeheart as Symbol;
+        [ @file = "Rez.mc"; @line = 10; @position = 19; initialized = true; ]
+        var threeQuarterHeart as Symbol;
+        [ @file = "Rez.mc"; @line = 11; @position = 19; initialized = true; ]
+        var fourheart as Symbol;
+        [ @file = "Rez.mc"; @line = 12; @position = 19; initialized = true; ]
+        var fiveheart as Symbol;
+        [ @file = "Rez.mc"; @line = 13; @position = 19; initialized = true; ]
+        var zero5heart as Symbol;
+        [ @file = "Rez.mc"; @line = 14; @position = 19; initialized = true; ]
+        var one5heart as Symbol;
+        [ @file = "Rez.mc"; @line = 15; @position = 19; initialized = true; ]
+        var two5heart as Symbol;
+        [ @file = "Rez.mc"; @line = 16; @position = 19; initialized = true; ]
+        var three5heart as Symbol;
+        [ @file = "Rez.mc"; @line = 17; @position = 19; initialized = true; ]
+        var four5heart as Symbol;
+        [ @file = "Rez.mc"; @line = 18; @position = 19; initialized = true; ]
+        var darkNavi as Symbol;
+        [ @file = "Rez.mc"; @line = 19; @position = 19; initialized = true; ]
+        var din as Symbol;
+        [ @file = "Rez.mc"; @line = 20; @position = 19; initialized = true; ]
+        var emptyTriforce as Symbol;
+        [ @file = "Rez.mc"; @line = 21; @position = 19; initialized = true; ]
+        var farore as Symbol;
+        [ @file = "Rez.mc"; @line = 22; @position = 19; initialized = true; ]
+        var faroreL as Symbol;
+        [ @file = "Rez.mc"; @line = 23; @position = 19; initialized = true; ]
+        var filledTriangle as Symbol;
+        [ @file = "Rez.mc"; @line = 24; @position = 19; initialized = true; ]
+        var moveTriangle as Symbol;
+        [ @file = "Rez.mc"; @line = 25; @position = 19; initialized = true; ]
+        var navi as Symbol;
+        [ @file = "Rez.mc"; @line = 26; @position = 19; initialized = true; ]
+        var nayru as Symbol;
+        [ @file = "Rez.mc"; @line = 27; @position = 19; initialized = true; ]
+        var stairs as Symbol;
+        [ @file = "Rez.mc"; @line = 28; @position = 19; initialized = true; ]
+        var steps as Symbol;
+        [ @file = "Rez.mc"; @line = 29; @position = 19; initialized = true; ]
+        var LauncherIcon as Symbol;
+    }
+    [ @file = "Rez.mc"; @line = 31; ]
+    module Fonts {
+        [ @file = "Rez.mc"; @line = 31; ]
+        <init> {
+        }
+        [ @file = "Rez.mc"; @line = 32; ]
+        import Toybox.Lang;
+        [ @file = "Rez.mc"; @line = 33; @position = 19; initialized = true; ]
+        var calamitysans as Symbol;
+        [ @file = "Rez.mc"; @line = 34; @position = 19; initialized = true; ]
+        var fonty as Symbol;
+    }
+    [ @file = "Rez.mc"; @line = 36; ]
+    module JsonData {
+        [ @file = "Rez.mc"; @line = 36; ]
+        <init> {
+        }
+    }
+    [ @file = "Rez.mc"; @line = 38; ]
+    module Layouts {
+        [ @file = "Rez.mc"; @line = 38; ]
+        <init> {
+        }
+        [ @file = "Rez.mc"; @line = 39; ]
+        import Toybox.Lang;
+        [ @file = "Rez.mc"; @line = 40; ]
+        using Toybox.WatchUi;
+        [ @file = "Rez.mc"; @line = 41; ]
+        using Toybox.WatchUi as :Ui;
+        [ @file = "Rez.mc"; @line = 42; ]
+        using Toybox.Graphics;
+        [ @file = "Rez.mc"; @line = 43; ]
+        using Toybox.Graphics as :Gfx;
+        [ @file = "Rez.mc"; @line = 45; ]
+        function WatchFace(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
+Rez_mc_45_69_start:
+[ "Rez.mc" 47 0 ]
+            [ "Rez_mc_45_69_start" "Rez_mc_45_69_stop" ]
+            %rez_cmp_local_custom_drawable_13000298161372172741.1 = local;
+            %tmp.4 = getv ? :Background;
+            %tmp.1 = newc %tmp.4 ();
+            lputv %rez_cmp_local_custom_drawable_13000298161372172741.1 %tmp.1;
+[ "Rez.mc" 48 0 ]
+            [ "Rez_mc_45_69_start" "Rez_mc_45_69_stop" ]
+            %rez_cmp_local_text_TimeLabel.2 = local;
+            %tmp.7 = getm $.Toybox.WatchUi;
+            %tmp.8 = getv function ? %tmp.7 :Text;
+            %tmp.9 = newd 6;
+            %tmp.11 = const :identifier;
+            %tmp.12 = "TimeLabel";
+            %tmp.13 = dup %tmp.9;
+            %tmp.14 = aputv %tmp.13 %tmp.11 %tmp.12;
+            %tmp.16 = const :color;
+            %tmp.17 = getm $.Toybox.Graphics;
+            %tmp.18 = getv %tmp.17 :COLOR_BLUE;
+            %tmp.19 = dup %tmp.14;
+            %tmp.20 = aputv %tmp.19 %tmp.16 %tmp.18;
+            %tmp.22 = const :locX;
+            %tmp.23 = 218;
+            %tmp.24 = 0.5;
+            %tmp.25 = mul %tmp.23 %tmp.24;
+            %tmp.26 = dup %tmp.20;
+            %tmp.27 = aputv %tmp.26 %tmp.22 %tmp.25;
+            %tmp.29 = const :locY;
+            %tmp.30 = 218;
+            %tmp.31 = lgetv %dc;
+            %tmp.32 = getv function %tmp.31 :getFontHeight;
+            %tmp.33 = getm $.Toybox.Graphics;
+            %tmp.34 = getv %tmp.33 :FONT_LARGE;
+            %tmp.35 = invoke %tmp.31 %tmp.32(%tmp.34);
+            %tmp.36 = sub %tmp.30 %tmp.35;
+            %tmp.37 = 0.5;
+            %tmp.38 = mul %tmp.36 %tmp.37;
+            %tmp.39 = dup %tmp.27;
+            %tmp.40 = aputv %tmp.39 %tmp.29 %tmp.38;
+            %tmp.42 = const :justification;
+            %tmp.43 = getm $.Toybox.Graphics;
+            %tmp.44 = getv %tmp.43 :TEXT_JUSTIFY_CENTER;
+            %tmp.45 = dup %tmp.40;
+            %tmp.46 = aputv %tmp.45 %tmp.42 %tmp.44;
+            %tmp.48 = const :font;
+            %tmp.49 = getm $.Toybox.Graphics;
+            %tmp.50 = getv %tmp.49 :FONT_LARGE;
+            %tmp.51 = dup %tmp.46;
+            %tmp.52 = aputv %tmp.51 %tmp.48 %tmp.50;
+            %tmp.5 = newc %tmp.8 (%tmp.52);
+            lputv %rez_cmp_local_text_TimeLabel.2 %tmp.5;
+[ "Rez.mc" 50 8 ]
+            %tmp.53 = newa Array<WatchUi.Drawable> 2;
+            %tmp.55 = lgetv %rez_cmp_local_custom_drawable_13000298161372172741.1;
+            %tmp.56 = dup %tmp.53;
+            %tmp.57 = aputv %tmp.56 0 %tmp.55;
+            %tmp.59 = lgetv %rez_cmp_local_text_TimeLabel.2;
+            %tmp.60 = dup %tmp.57;
+            %tmp.61 = aputv %tmp.60 1 %tmp.59;
+            ret %tmp.61;
+Rez_mc_45_69_stop:
+        }
+    }
+    [ @file = "Rez.mc"; @line = 55; ]
+    module Menus {
+        [ @file = "Rez.mc"; @line = 55; ]
+        <init> {
+        }
+    }
+    [ @file = "Rez.mc"; @line = 57; ]
+    module Strings {
+        [ @file = "Rez.mc"; @line = 57; ]
+        <init> {
+        }
+        [ @file = "Rez.mc"; @line = 58; ]
+        import Toybox.Lang;
+        [ @file = "Rez.mc"; @line = 59; @position = 19; initialized = true; ]
+        var ColorLightGray as Symbol;
+        [ @file = "Rez.mc"; @line = 60; @position = 19; initialized = true; ]
+        var ColorBlue as Symbol;
+        [ @file = "Rez.mc"; @line = 61; @position = 19; initialized = true; ]
+        var ColorRed as Symbol;
+        [ @file = "Rez.mc"; @line = 62; @position = 19; initialized = true; ]
+        var ForegroundColorTitle as Symbol;
+        [ @file = "Rez.mc"; @line = 63; @position = 19; initialized = true; ]
+        var BackgroundColorTitle as Symbol;
+        [ @file = "Rez.mc"; @line = 64; @position = 19; initialized = true; ]
+        var ColorDarkGray as Symbol;
+        [ @file = "Rez.mc"; @line = 65; @position = 19; initialized = true; ]
+        var MilitaryFormatTitle as Symbol;
+        [ @file = "Rez.mc"; @line = 66; @position = 19; initialized = true; ]
+        var ColorBlack as Symbol;
+        [ @file = "Rez.mc"; @line = 67; @position = 19; initialized = true; ]
+        var ColorWhite as Symbol;
+        [ @file = "Rez.mc"; @line = 68; @position = 19; initialized = true; ]
+        var AppName as Symbol;
+    }
+}
+[ @file = "Rez.mc"; @line = 1; ]
+<init> {
+}
