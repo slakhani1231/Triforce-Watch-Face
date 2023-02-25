@@ -4,7 +4,6 @@
     <iq:application entry="TriforceWatchFaceApp" id="72cf22b9d8e1487b9d724cfcff6264c9" launcherIcon="@Drawables.LauncherIcon" minSdkVersion="3.1.0" name="@Strings.AppName" type="watchface" version="1.0.2">
         <iq:products>
             <iq:product id="d2delta"/>
-            <iq:product id="d2deltapx"/>
             <iq:product id="d2deltas"/>
             <iq:product id="descentmk2"/>
             <iq:product id="descentmk2s"/>
@@ -22,7 +21,6 @@
             <iq:product id="fenix6xpro"/>
             <iq:product id="fenix7"/>
             <iq:product id="fenix7s"/>
-            <iq:product id="fenix7system6preview"/>
             <iq:product id="fenix7x"/>
             <iq:product id="fenixchronos"/>
             <iq:product id="fr255"/>
@@ -48,7 +46,6 @@
             <iq:product id="marqdriver"/>
             <iq:product id="marqexpedition"/>
             <iq:product id="marqgolfer"/>
-            <iq:product id="vivoactive3"/>
             <iq:product id="vivoactive3m"/>
             <iq:product id="vivoactive3mlte"/>
             <iq:product id="vivoactive4"/>
