@@ -101,10 +101,10 @@ module Rez {
 Rez_mc_45_69_start:
 [ "Rez.mc" 47 0 ]
             [ "Rez_mc_45_69_start" "Rez_mc_45_69_stop" ]
-            %rez_cmp_local_custom_drawable_13000298161372172741.1 = local;
+            %rez_cmp_local_custom_drawable_48691111821127099502.1 = local;
             %tmp.4 = getv ? :Background;
             %tmp.1 = newc %tmp.4 ();
-            lputv %rez_cmp_local_custom_drawable_13000298161372172741.1 %tmp.1;
+            lputv %rez_cmp_local_custom_drawable_48691111821127099502.1 %tmp.1;
 [ "Rez.mc" 48 0 ]
             [ "Rez_mc_45_69_start" "Rez_mc_45_69_stop" ]
             %rez_cmp_local_text_TimeLabel.2 = local;
@@ -121,13 +121,13 @@ Rez_mc_45_69_start:
             %tmp.19 = dup %tmp.14;
             %tmp.20 = aputv %tmp.19 %tmp.16 %tmp.18;
             %tmp.22 = const :locX;
-            %tmp.23 = 218;
+            %tmp.23 = 240;
             %tmp.24 = 0.5;
             %tmp.25 = mul %tmp.23 %tmp.24;
             %tmp.26 = dup %tmp.20;
             %tmp.27 = aputv %tmp.26 %tmp.22 %tmp.25;
             %tmp.29 = const :locY;
-            %tmp.30 = 218;
+            %tmp.30 = 240;
             %tmp.31 = lgetv %dc;
             %tmp.32 = getv function %tmp.31 :getFontHeight;
             %tmp.33 = getm $.Toybox.Graphics;
@@ -152,7 +152,7 @@ Rez_mc_45_69_start:
             lputv %rez_cmp_local_text_TimeLabel.2 %tmp.5;
 [ "Rez.mc" 50 8 ]
             %tmp.53 = newa Array<WatchUi.Drawable> 2;
-            %tmp.55 = lgetv %rez_cmp_local_custom_drawable_13000298161372172741.1;
+            %tmp.55 = lgetv %rez_cmp_local_custom_drawable_48691111821127099502.1;
             %tmp.56 = dup %tmp.53;
             %tmp.57 = aputv %tmp.56 0 %tmp.55;
             %tmp.59 = lgetv %rez_cmp_local_text_TimeLabel.2;

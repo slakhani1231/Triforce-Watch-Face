@@ -122,7 +122,8 @@ class TriforceWatchFaceView extends Ui.WatchFace {
 	    		hours = hours - 12;
 	    		amPm = "pm";
 	    	}
-	    	dc.drawText(center_x + dc.getTextDimensions(min, Gfx.FONT_MEDIUM)[0]+6, center_y-81, Gfx.FONT_SYSTEM_TINY, amPm, Gfx.TEXT_JUSTIFY_LEFT);
+            var textDim = dc.getTextDimensions(min, Gfx.FONT_MEDIUM) as Lang.Array<Lang.Number>;
+	    	dc.drawText(center_x + textDim[0]+6, center_y-81, Gfx.FONT_SYSTEM_TINY, amPm, Gfx.TEXT_JUSTIFY_LEFT);
 	    }
 	    dc.drawText(center_x-5, center_y-80, Gfx.FONT_MEDIUM, hours, Gfx.TEXT_JUSTIFY_RIGHT);
 	    dc.drawText(center_x, center_y-80, Gfx.FONT_MEDIUM, ":", Gfx.TEXT_JUSTIFY_CENTER);
@@ -223,7 +224,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
     private function setStepCountDisplay(dc) {
     	var stepCount = Mon.getInfo().steps.toString();		
 	    dc.setColor(Gfx.COLOR_BLUE, Gfx.COLOR_TRANSPARENT);
-	    var textDim = dc.getTextDimensions(stepCount,font);
+	    var textDim = dc.getTextDimensions(stepCount,font) as Lang.Array<Lang.Number>;
 	    dc.drawText(center_x-farore.getWidth()/2, center_y+55, font, stepCount, Gfx.TEXT_JUSTIFY_CENTER);
 	    dc.drawBitmap((center_x-farore.getWidth()/2)-textDim[0]/2-steps.getWidth()-2, center_y+55, steps);
     }
