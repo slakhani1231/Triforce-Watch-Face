@@ -61,52 +61,54 @@ module Rez {
         [ @file = "Rez.mc"; @line = 28; @position = 19; initialized = true; ]
         var steps as Symbol;
         [ @file = "Rez.mc"; @line = 29; @position = 19; initialized = true; ]
+        var battery as Symbol;
+        [ @file = "Rez.mc"; @line = 30; @position = 19; initialized = true; ]
         var LauncherIcon as Symbol;
     }
-    [ @file = "Rez.mc"; @line = 31; ]
+    [ @file = "Rez.mc"; @line = 32; ]
     module Fonts {
-        [ @file = "Rez.mc"; @line = 31; ]
+        [ @file = "Rez.mc"; @line = 32; ]
         <init> {
         }
-        [ @file = "Rez.mc"; @line = 32; ]
+        [ @file = "Rez.mc"; @line = 33; ]
         import Toybox.Lang;
-        [ @file = "Rez.mc"; @line = 33; @position = 19; initialized = true; ]
-        var calamitysans as Symbol;
         [ @file = "Rez.mc"; @line = 34; @position = 19; initialized = true; ]
+        var calamitysans as Symbol;
+        [ @file = "Rez.mc"; @line = 35; @position = 19; initialized = true; ]
         var fonty as Symbol;
     }
-    [ @file = "Rez.mc"; @line = 36; ]
+    [ @file = "Rez.mc"; @line = 37; ]
     module JsonData {
-        [ @file = "Rez.mc"; @line = 36; ]
+        [ @file = "Rez.mc"; @line = 37; ]
         <init> {
         }
     }
-    [ @file = "Rez.mc"; @line = 38; ]
+    [ @file = "Rez.mc"; @line = 39; ]
     module Layouts {
-        [ @file = "Rez.mc"; @line = 38; ]
+        [ @file = "Rez.mc"; @line = 39; ]
         <init> {
         }
-        [ @file = "Rez.mc"; @line = 39; ]
-        import Toybox.Lang;
         [ @file = "Rez.mc"; @line = 40; ]
-        using Toybox.WatchUi;
+        import Toybox.Lang;
         [ @file = "Rez.mc"; @line = 41; ]
-        using Toybox.WatchUi as :Ui;
+        using Toybox.WatchUi;
         [ @file = "Rez.mc"; @line = 42; ]
-        using Toybox.Graphics;
+        using Toybox.WatchUi as :Ui;
         [ @file = "Rez.mc"; @line = 43; ]
+        using Toybox.Graphics;
+        [ @file = "Rez.mc"; @line = 44; ]
         using Toybox.Graphics as :Gfx;
-        [ @file = "Rez.mc"; @line = 45; ]
+        [ @file = "Rez.mc"; @line = 46; ]
         function WatchFace(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
-Rez_mc_45_69_start:
-[ "Rez.mc" 47 0 ]
-            [ "Rez_mc_45_69_start" "Rez_mc_45_69_stop" ]
-            %rez_cmp_local_custom_drawable_48691111821127099502.1 = local;
+Rez_mc_46_69_start:
+[ "Rez.mc" 48 0 ]
+            [ "Rez_mc_46_69_start" "Rez_mc_46_69_stop" ]
+            %rez_cmp_local_custom_drawable_76679916615021447874.1 = local;
             %tmp.4 = getv ? :Background;
             %tmp.1 = newc %tmp.4 ();
-            lputv %rez_cmp_local_custom_drawable_48691111821127099502.1 %tmp.1;
-[ "Rez.mc" 48 0 ]
-            [ "Rez_mc_45_69_start" "Rez_mc_45_69_stop" ]
+            lputv %rez_cmp_local_custom_drawable_76679916615021447874.1 %tmp.1;
+[ "Rez.mc" 49 0 ]
+            [ "Rez_mc_46_69_start" "Rez_mc_46_69_stop" ]
             %rez_cmp_local_text_TimeLabel.2 = local;
             %tmp.7 = getm $.Toybox.WatchUi;
             %tmp.8 = getv function ? %tmp.7 :Text;
@@ -150,50 +152,34 @@ Rez_mc_45_69_start:
             %tmp.52 = aputv %tmp.51 %tmp.48 %tmp.50;
             %tmp.5 = newc %tmp.8 (%tmp.52);
             lputv %rez_cmp_local_text_TimeLabel.2 %tmp.5;
-[ "Rez.mc" 50 8 ]
+[ "Rez.mc" 51 8 ]
             %tmp.53 = newa Array<WatchUi.Drawable> 2;
-            %tmp.55 = lgetv %rez_cmp_local_custom_drawable_48691111821127099502.1;
+            %tmp.55 = lgetv %rez_cmp_local_custom_drawable_76679916615021447874.1;
             %tmp.56 = dup %tmp.53;
             %tmp.57 = aputv %tmp.56 0 %tmp.55;
             %tmp.59 = lgetv %rez_cmp_local_text_TimeLabel.2;
             %tmp.60 = dup %tmp.57;
             %tmp.61 = aputv %tmp.60 1 %tmp.59;
             ret %tmp.61;
-Rez_mc_45_69_stop:
+Rez_mc_46_69_stop:
         }
     }
-    [ @file = "Rez.mc"; @line = 55; ]
+    [ @file = "Rez.mc"; @line = 56; ]
     module Menus {
-        [ @file = "Rez.mc"; @line = 55; ]
+        [ @file = "Rez.mc"; @line = 56; ]
         <init> {
         }
     }
-    [ @file = "Rez.mc"; @line = 57; ]
+    [ @file = "Rez.mc"; @line = 58; ]
     module Strings {
-        [ @file = "Rez.mc"; @line = 57; ]
+        [ @file = "Rez.mc"; @line = 58; ]
         <init> {
         }
-        [ @file = "Rez.mc"; @line = 58; ]
+        [ @file = "Rez.mc"; @line = 59; ]
         import Toybox.Lang;
-        [ @file = "Rez.mc"; @line = 59; @position = 19; initialized = true; ]
-        var ColorLightGray as Symbol;
         [ @file = "Rez.mc"; @line = 60; @position = 19; initialized = true; ]
-        var ColorBlue as Symbol;
+        var BodyBatteryTitle as Symbol;
         [ @file = "Rez.mc"; @line = 61; @position = 19; initialized = true; ]
-        var ColorRed as Symbol;
-        [ @file = "Rez.mc"; @line = 62; @position = 19; initialized = true; ]
-        var ForegroundColorTitle as Symbol;
-        [ @file = "Rez.mc"; @line = 63; @position = 19; initialized = true; ]
-        var BackgroundColorTitle as Symbol;
-        [ @file = "Rez.mc"; @line = 64; @position = 19; initialized = true; ]
-        var ColorDarkGray as Symbol;
-        [ @file = "Rez.mc"; @line = 65; @position = 19; initialized = true; ]
-        var MilitaryFormatTitle as Symbol;
-        [ @file = "Rez.mc"; @line = 66; @position = 19; initialized = true; ]
-        var ColorBlack as Symbol;
-        [ @file = "Rez.mc"; @line = 67; @position = 19; initialized = true; ]
-        var ColorWhite as Symbol;
-        [ @file = "Rez.mc"; @line = 68; @position = 19; initialized = true; ]
         var AppName as Symbol;
     }
 }

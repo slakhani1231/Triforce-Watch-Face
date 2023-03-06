@@ -6,6 +6,7 @@ using Toybox.Math as Math;
 
 using Toybox.Time.Gregorian as Date;
 using Toybox.Application as App;
+using Toybox.SensorHistory;
 
 using Toybox.ActivityMonitor as Mon;
 
@@ -37,10 +38,32 @@ class TriforceWatchFaceView extends Ui.WatchFace {
     var darknavi;
     var emptyTriforce;
     var filledTriforce;
+    var useBodyBattery;
+    var batteryIcon;
     static const ARC_MAX = 45; //length of the arc for the step indicator
     
     function initialize() {
         WatchFace.initialize();
+
+        if (App has :Storage) {
+            if (App.Properties.getValue("UseBodyBattery") == null) {
+                App.Properties.setValue("UseBodyBattery", false);
+                useBodyBattery = false;
+            } else {
+                System.println(App.Properties.getValue("UseBodyBattery"));
+                useBodyBattery = App.Properties.getValue("UseBodyBattery");
+            }
+        } else {
+            var app = App.getApp();
+            if (app.getProperty("UseBodyBattery") == null) {
+                app.setProperty("UseBodyBattery", false);
+                useBodyBattery = false;
+            } else {
+                useBodyBattery = app.getProperty("UseBodyBattery");
+            }
+        }
+        
+        //useBodyBattery = app.getProperty("UseBodyBattery") == null ? false : app.getProperty("UseBodyBattery");
     }
 
     // Load your resources here
@@ -71,6 +94,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
         emptyTriforce = Ui.loadResource(Rez.Drawables.emptyTriforce);
         font = Ui.loadResource( Rez.Fonts.fonty );
         filledTriforce = Ui.loadResource(Rez.Drawables.filledTriangle);
+        batteryIcon = Ui.loadResource(Rez.Drawables.battery);
         
         center_x = dc.getWidth()/2;
         center_y = dc.getHeight()/2;
@@ -95,10 +119,9 @@ class TriforceWatchFaceView extends Ui.WatchFace {
         dc.drawBitmap(center_x-farore.getWidth(), center_y+5, nayru);
 	    dc.drawBitmap(center_x, center_y+5, farore);
 	    dc.drawBitmap(center_x-farore.getWidth()/2, center_y+5-farore.getHeight(), din);
-                    
-        updateBattery(dc);
-        
+                         
         var activityInfo = Toybox.ActivityMonitor.getInfo();
+        updateBattery(dc, activityInfo);
         drawStepsIndicator(dc, activityInfo);
         drawMoveWarning(dc);
         setStepCountDisplay(dc);
@@ -117,9 +140,11 @@ class TriforceWatchFaceView extends Ui.WatchFace {
         dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
         if (!is24hour) {
         	var amPm = "am";
-	    	var isPm = hours > 12;
+	    	var isPm = hours >= 12;
 	    	if (isPm) {
-	    		hours = hours - 12;
+                if (hours != 12) {
+	    		    hours = hours - 12;
+                }
 	    		amPm = "pm";
 	    	}
             var textDim = dc.getTextDimensions(min, Gfx.FONT_MEDIUM) as Lang.Array<Lang.Number>;
@@ -144,8 +169,23 @@ class TriforceWatchFaceView extends Ui.WatchFace {
     function onEnterSleep() {
     }
     
-    function updateBattery(dc) {
+    function updateBattery(dc, activityInfo) {
         var battery = Sys.getSystemStats().battery;
+        if (useBodyBattery) {
+            if ((Toybox has :SensorHistory) && (Toybox.SensorHistory has :getBodyBatteryHistory)) {
+                var batStr = Lang.format("$1$%", [battery.format("%2d")]);
+                var batPosition = center_y+(center_y*.65);
+                dc.setColor(Gfx.COLOR_DK_GRAY, Gfx.COLOR_TRANSPARENT);
+                dc.drawBitmap(center_x-batteryIcon.getWidth(), batPosition, batteryIcon);
+                dc.drawText(center_x+5, batPosition-1, font, batStr, Gfx.TEXT_JUSTIFY_LEFT);
+                var bodyBatt = Toybox.SensorHistory.getBodyBatteryHistory({:period=>1});
+                bodyBatt = bodyBatt.next();
+
+                if (bodyBatt != null) {
+                    battery = bodyBatt.data;
+                }
+            }
+        }
         var position_x = center_x-36;
         var position_y = center_y/20+5;
     	//var batteryDisplay = View.findDrawableById("BatteryDisplay");  
@@ -231,7 +271,7 @@ class TriforceWatchFaceView extends Ui.WatchFace {
     
     private function setStairCountDisplay(dc) {
     	var stairCount = Mon.getInfo().floorsClimbed.toString();
-    	dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
+    	dc.setColor(Gfx.COLOR_DK_RED, Gfx.COLOR_TRANSPARENT);
     	dc.drawText(center_x+1, center_y+6, font, stairCount, Gfx.TEXT_JUSTIFY_LEFT);
     	dc.drawBitmap(center_x-16, center_y+6, stairs);
     }

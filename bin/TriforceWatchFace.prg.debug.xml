@@ -21,337 +21,360 @@
         <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceBackground.mc" id="10" lineNum="18" parent="globals/Background" pc="268435661" symbol="draw"/>
         <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceBackground.mc" id="10" lineNum="19" parent="globals/Background" pc="268435683" symbol="draw"/>
         <entry filename="Rez.mc" id="11" lineNum="1" parent="globals/Rez" pc="268435696" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="12" lineNum="12" parent="globals/TriforceWatchFaceView" pc="268435720" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="224" parent="globals/TriforceWatchFaceView" pc="268435739" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="225" parent="globals/TriforceWatchFaceView" pc="268435743" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="226" parent="globals/TriforceWatchFaceView" pc="268435775" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="227" parent="globals/TriforceWatchFaceView" pc="268435797" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="228" parent="globals/TriforceWatchFaceView" pc="268435820" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="229" parent="globals/TriforceWatchFaceView" pc="268435893" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="112" parent="globals/TriforceWatchFaceView" pc="268435999" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="113" parent="globals/TriforceWatchFaceView" pc="268436003" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="114" parent="globals/TriforceWatchFaceView" pc="268436013" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="117" parent="globals/TriforceWatchFaceView" pc="268436037" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="118" parent="globals/TriforceWatchFaceView" pc="268436059" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="119" parent="globals/TriforceWatchFaceView" pc="268436065" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="120" parent="globals/TriforceWatchFaceView" pc="268436072" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="121" parent="globals/TriforceWatchFaceView" pc="268436082" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="122" parent="globals/TriforceWatchFaceView" pc="268436087" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="123" parent="globals/TriforceWatchFaceView" pc="268436097" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="125" parent="globals/TriforceWatchFaceView" pc="268436107" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="126" parent="globals/TriforceWatchFaceView" pc="268436127" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="128" parent="globals/TriforceWatchFaceView" pc="268436191" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="129" parent="globals/TriforceWatchFaceView" pc="268436243" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="130" parent="globals/TriforceWatchFaceView" pc="268436292" symbol="drawTime"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="147" parent="globals/TriforceWatchFaceView" pc="268436345" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="148" parent="globals/TriforceWatchFaceView" pc="268436349" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="149" parent="globals/TriforceWatchFaceView" pc="268436372" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="150" parent="globals/TriforceWatchFaceView" pc="268436388" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="153" parent="globals/TriforceWatchFaceView" pc="268436410" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="154" parent="globals/TriforceWatchFaceView" pc="268436435" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="155" parent="globals/TriforceWatchFaceView" pc="268436459" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="156" parent="globals/TriforceWatchFaceView" pc="268436484" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="159" parent="globals/TriforceWatchFaceView" pc="268436520" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="160" parent="globals/TriforceWatchFaceView" pc="268436545" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="161" parent="globals/TriforceWatchFaceView" pc="268436569" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="162" parent="globals/TriforceWatchFaceView" pc="268436594" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="165" parent="globals/TriforceWatchFaceView" pc="268436630" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="166" parent="globals/TriforceWatchFaceView" pc="268436655" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="167" parent="globals/TriforceWatchFaceView" pc="268436679" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="168" parent="globals/TriforceWatchFaceView" pc="268436704" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="171" parent="globals/TriforceWatchFaceView" pc="268436740" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="172" parent="globals/TriforceWatchFaceView" pc="268436765" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="173" parent="globals/TriforceWatchFaceView" pc="268436789" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="174" parent="globals/TriforceWatchFaceView" pc="268436814" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="177" parent="globals/TriforceWatchFaceView" pc="268436850" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="178" parent="globals/TriforceWatchFaceView" pc="268436875" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="179" parent="globals/TriforceWatchFaceView" pc="268436899" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="180" parent="globals/TriforceWatchFaceView" pc="268436924" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="183" parent="globals/TriforceWatchFaceView" pc="268436960" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="184" parent="globals/TriforceWatchFaceView" pc="268436985" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="185" parent="globals/TriforceWatchFaceView" pc="268437009" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="186" parent="globals/TriforceWatchFaceView" pc="268437034" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="189" parent="globals/TriforceWatchFaceView" pc="268437070" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="190" parent="globals/TriforceWatchFaceView" pc="268437095" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="191" parent="globals/TriforceWatchFaceView" pc="268437119" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="192" parent="globals/TriforceWatchFaceView" pc="268437144" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="195" parent="globals/TriforceWatchFaceView" pc="268437180" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="196" parent="globals/TriforceWatchFaceView" pc="268437205" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="197" parent="globals/TriforceWatchFaceView" pc="268437229" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="198" parent="globals/TriforceWatchFaceView" pc="268437254" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="201" parent="globals/TriforceWatchFaceView" pc="268437290" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="202" parent="globals/TriforceWatchFaceView" pc="268437315" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="203" parent="globals/TriforceWatchFaceView" pc="268437339" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="204" parent="globals/TriforceWatchFaceView" pc="268437364" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="207" parent="globals/TriforceWatchFaceView" pc="268437400" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="208" parent="globals/TriforceWatchFaceView" pc="268437425" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="209" parent="globals/TriforceWatchFaceView" pc="268437449" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="210" parent="globals/TriforceWatchFaceView" pc="268437474" symbol="updateBattery"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="370" parent="globals/TriforceWatchFaceView" pc="268437511" symbol="drawMoveWarning"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="371" parent="globals/TriforceWatchFaceView" pc="268437515" symbol="drawMoveWarning"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="373" parent="globals/TriforceWatchFaceView" pc="268437538" symbol="drawMoveWarning"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="374" parent="globals/TriforceWatchFaceView" pc="268437549" symbol="drawMoveWarning"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="375" parent="globals/TriforceWatchFaceView" pc="268437633" symbol="drawMoveWarning"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="376" parent="globals/TriforceWatchFaceView" pc="268437644" symbol="drawMoveWarning"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="377" parent="globals/TriforceWatchFaceView" pc="268437704" symbol="drawMoveWarning"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="378" parent="globals/TriforceWatchFaceView" pc="268437715" symbol="drawMoveWarning"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="256" parent="globals/TriforceWatchFaceView" pc="268437767" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="257" parent="globals/TriforceWatchFaceView" pc="268437771" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="258" parent="globals/TriforceWatchFaceView" pc="268437808" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="259" parent="globals/TriforceWatchFaceView" pc="268437812" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="260" parent="globals/TriforceWatchFaceView" pc="268437819" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="263" parent="globals/TriforceWatchFaceView" pc="268437826" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="264" parent="globals/TriforceWatchFaceView" pc="268437837" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="265" parent="globals/TriforceWatchFaceView" pc="268437844" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="268" parent="globals/TriforceWatchFaceView" pc="268437907" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="270" parent="globals/TriforceWatchFaceView" pc="268437923" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="271" parent="globals/TriforceWatchFaceView" pc="268437945" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="272" parent="globals/TriforceWatchFaceView" pc="268437962" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="274" parent="globals/TriforceWatchFaceView" pc="268438013" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="275" parent="globals/TriforceWatchFaceView" pc="268438024" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="277" parent="globals/TriforceWatchFaceView" pc="268438034" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="278" parent="globals/TriforceWatchFaceView" pc="268438073" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="279" parent="globals/TriforceWatchFaceView" pc="268438083" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="280" parent="globals/TriforceWatchFaceView" pc="268438094" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="282" parent="globals/TriforceWatchFaceView" pc="268438104" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="283" parent="globals/TriforceWatchFaceView" pc="268438123" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="284" parent="globals/TriforceWatchFaceView" pc="268438140" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="286" parent="globals/TriforceWatchFaceView" pc="268438197" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="287" parent="globals/TriforceWatchFaceView" pc="268438216" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="289" parent="globals/TriforceWatchFaceView" pc="268438233" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="291" parent="globals/TriforceWatchFaceView" pc="268438278" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="292" parent="globals/TriforceWatchFaceView" pc="268438296" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="293" parent="globals/TriforceWatchFaceView" pc="268438344" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="296" parent="globals/TriforceWatchFaceView" pc="268438405" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="297" parent="globals/TriforceWatchFaceView" pc="268438448" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="298" parent="globals/TriforceWatchFaceView" pc="268438452" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="299" parent="globals/TriforceWatchFaceView" pc="268438459" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="302" parent="globals/TriforceWatchFaceView" pc="268438466" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="303" parent="globals/TriforceWatchFaceView" pc="268438477" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="304" parent="globals/TriforceWatchFaceView" pc="268438484" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="308" parent="globals/TriforceWatchFaceView" pc="268438529" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="309" parent="globals/TriforceWatchFaceView" pc="268438551" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="312" parent="globals/TriforceWatchFaceView" pc="268438568" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="313" parent="globals/TriforceWatchFaceView" pc="268438579" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="315" parent="globals/TriforceWatchFaceView" pc="268438589" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="316" parent="globals/TriforceWatchFaceView" pc="268438628" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="317" parent="globals/TriforceWatchFaceView" pc="268438638" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="318" parent="globals/TriforceWatchFaceView" pc="268438649" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="320" parent="globals/TriforceWatchFaceView" pc="268438659" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="321" parent="globals/TriforceWatchFaceView" pc="268438678" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="322" parent="globals/TriforceWatchFaceView" pc="268438695" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="324" parent="globals/TriforceWatchFaceView" pc="268438752" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="325" parent="globals/TriforceWatchFaceView" pc="268438771" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="327" parent="globals/TriforceWatchFaceView" pc="268438788" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="329" parent="globals/TriforceWatchFaceView" pc="268438833" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="330" parent="globals/TriforceWatchFaceView" pc="268438851" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="331" parent="globals/TriforceWatchFaceView" pc="268438899" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="334" parent="globals/TriforceWatchFaceView" pc="268438960" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="335" parent="globals/TriforceWatchFaceView" pc="268438997" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="336" parent="globals/TriforceWatchFaceView" pc="268439001" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="337" parent="globals/TriforceWatchFaceView" pc="268439008" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="340" parent="globals/TriforceWatchFaceView" pc="268439015" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="341" parent="globals/TriforceWatchFaceView" pc="268439026" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="342" parent="globals/TriforceWatchFaceView" pc="268439033" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="345" parent="globals/TriforceWatchFaceView" pc="268439120" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="346" parent="globals/TriforceWatchFaceView" pc="268439127" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="347" parent="globals/TriforceWatchFaceView" pc="268439138" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="349" parent="globals/TriforceWatchFaceView" pc="268439145" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="350" parent="globals/TriforceWatchFaceView" pc="268439184" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="351" parent="globals/TriforceWatchFaceView" pc="268439197" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="352" parent="globals/TriforceWatchFaceView" pc="268439208" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="354" parent="globals/TriforceWatchFaceView" pc="268439218" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="355" parent="globals/TriforceWatchFaceView" pc="268439237" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="356" parent="globals/TriforceWatchFaceView" pc="268439254" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="358" parent="globals/TriforceWatchFaceView" pc="268439311" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="359" parent="globals/TriforceWatchFaceView" pc="268439330" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="361" parent="globals/TriforceWatchFaceView" pc="268439347" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="363" parent="globals/TriforceWatchFaceView" pc="268439395" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="364" parent="globals/TriforceWatchFaceView" pc="268439413" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="365" parent="globals/TriforceWatchFaceView" pc="268439461" symbol="drawStepsIndicator"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="47" parent="globals/TriforceWatchFaceView" pc="268439523" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="48" parent="globals/TriforceWatchFaceView" pc="268439525" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="50" parent="globals/TriforceWatchFaceView" pc="268439566" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="51" parent="globals/TriforceWatchFaceView" pc="268439613" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="52" parent="globals/TriforceWatchFaceView" pc="268439660" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="53" parent="globals/TriforceWatchFaceView" pc="268439707" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="54" parent="globals/TriforceWatchFaceView" pc="268439754" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="55" parent="globals/TriforceWatchFaceView" pc="268439801" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="56" parent="globals/TriforceWatchFaceView" pc="268439848" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="57" parent="globals/TriforceWatchFaceView" pc="268439895" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="58" parent="globals/TriforceWatchFaceView" pc="268439942" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="59" parent="globals/TriforceWatchFaceView" pc="268439989" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="60" parent="globals/TriforceWatchFaceView" pc="268440036" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="61" parent="globals/TriforceWatchFaceView" pc="268440083" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="62" parent="globals/TriforceWatchFaceView" pc="268440130" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="63" parent="globals/TriforceWatchFaceView" pc="268440177" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="64" parent="globals/TriforceWatchFaceView" pc="268440224" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="65" parent="globals/TriforceWatchFaceView" pc="268440271" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="66" parent="globals/TriforceWatchFaceView" pc="268440318" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="67" parent="globals/TriforceWatchFaceView" pc="268440365" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="68" parent="globals/TriforceWatchFaceView" pc="268440412" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="69" parent="globals/TriforceWatchFaceView" pc="268440459" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="70" parent="globals/TriforceWatchFaceView" pc="268440506" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="71" parent="globals/TriforceWatchFaceView" pc="268440553" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="72" parent="globals/TriforceWatchFaceView" pc="268440600" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="73" parent="globals/TriforceWatchFaceView" pc="268440647" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="75" parent="globals/TriforceWatchFaceView" pc="268440694" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="76" parent="globals/TriforceWatchFaceView" pc="268440719" symbol="onLayout"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="215" parent="globals/TriforceWatchFaceView" pc="268440745" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="216" parent="globals/TriforceWatchFaceView" pc="268440749" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="217" parent="globals/TriforceWatchFaceView" pc="268440768" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="218" parent="globals/TriforceWatchFaceView" pc="268440792" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="220" parent="globals/TriforceWatchFaceView" pc="268440868" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="221" parent="globals/TriforceWatchFaceView" pc="268440890" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="23" lineNum="239" parent="globals/TriforceWatchFaceView" pc="268440946" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="23" lineNum="240" parent="globals/TriforceWatchFaceView" pc="268440950" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="23" lineNum="241" parent="globals/TriforceWatchFaceView" pc="268440988" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="23" lineNum="242" parent="globals/TriforceWatchFaceView" pc="268441010" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="24" lineNum="232" parent="globals/TriforceWatchFaceView" pc="268441084" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="24" lineNum="233" parent="globals/TriforceWatchFaceView" pc="268441088" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="24" lineNum="234" parent="globals/TriforceWatchFaceView" pc="268441120" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="24" lineNum="235" parent="globals/TriforceWatchFaceView" pc="268441142" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="24" lineNum="236" parent="globals/TriforceWatchFaceView" pc="268441197" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="245" parent="globals/TriforceWatchFaceView" pc="268441246" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="246" parent="globals/TriforceWatchFaceView" pc="268441250" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="247" parent="globals/TriforceWatchFaceView" pc="268441257" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="248" parent="globals/TriforceWatchFaceView" pc="268441276" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="251" parent="globals/TriforceWatchFaceView" pc="268441333" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="253" parent="globals/TriforceWatchFaceView" pc="268441387" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="42" parent="globals/TriforceWatchFaceView" pc="268441467" symbol="initialize"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="43" parent="globals/TriforceWatchFaceView" pc="268441469" symbol="initialize"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="86" parent="globals/TriforceWatchFaceView" pc="268441488" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="88" parent="globals/TriforceWatchFaceView" pc="268441492" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="90" parent="globals/TriforceWatchFaceView" pc="268441509" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="94" parent="globals/TriforceWatchFaceView" pc="268441526" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="95" parent="globals/TriforceWatchFaceView" pc="268441546" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="96" parent="globals/TriforceWatchFaceView" pc="268441606" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="97" parent="globals/TriforceWatchFaceView" pc="268441648" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="99" parent="globals/TriforceWatchFaceView" pc="268441732" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="101" parent="globals/TriforceWatchFaceView" pc="268441746" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="102" parent="globals/TriforceWatchFaceView" pc="268441763" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="103" parent="globals/TriforceWatchFaceView" pc="268441779" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="104" parent="globals/TriforceWatchFaceView" pc="268441793" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="105" parent="globals/TriforceWatchFaceView" pc="268441807" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="106" parent="globals/TriforceWatchFaceView" pc="268441821" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="107" parent="globals/TriforceWatchFaceView" pc="268441835" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="108" parent="globals/TriforceWatchFaceView" pc="268441849" symbol="onUpdate"/>
-        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="109" parent="globals/TriforceWatchFaceView" pc="268441873" symbol="onUpdate"/>
-        <entry filename="Rez.mc" id="29" lineNum="45" parent="globals/Rez/Layouts" pc="268441904" symbol="WatchFace"/>
-        <entry filename="Rez.mc" id="29" lineNum="47" parent="globals/Rez/Layouts" pc="268441916" symbol="WatchFace"/>
-        <entry filename="Rez.mc" id="29" lineNum="48" parent="globals/Rez/Layouts" pc="268441944" symbol="WatchFace"/>
-        <entry filename="Rez.mc" id="29" lineNum="50" parent="globals/Rez/Layouts" pc="268442079" symbol="WatchFace"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="12" lineNum="13" parent="globals/TriforceWatchFaceView" pc="268435720" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="264" parent="globals/TriforceWatchFaceView" pc="268435739" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="265" parent="globals/TriforceWatchFaceView" pc="268435743" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="266" parent="globals/TriforceWatchFaceView" pc="268435775" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="267" parent="globals/TriforceWatchFaceView" pc="268435797" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="268" parent="globals/TriforceWatchFaceView" pc="268435820" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="13" lineNum="269" parent="globals/TriforceWatchFaceView" pc="268435893" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="135" parent="globals/TriforceWatchFaceView" pc="268435999" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="136" parent="globals/TriforceWatchFaceView" pc="268436003" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="137" parent="globals/TriforceWatchFaceView" pc="268436013" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="140" parent="globals/TriforceWatchFaceView" pc="268436037" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="141" parent="globals/TriforceWatchFaceView" pc="268436059" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="142" parent="globals/TriforceWatchFaceView" pc="268436065" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="143" parent="globals/TriforceWatchFaceView" pc="268436072" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="144" parent="globals/TriforceWatchFaceView" pc="268436082" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="145" parent="globals/TriforceWatchFaceView" pc="268436087" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="146" parent="globals/TriforceWatchFaceView" pc="268436098" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="148" parent="globals/TriforceWatchFaceView" pc="268436111" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="150" parent="globals/TriforceWatchFaceView" pc="268436121" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="151" parent="globals/TriforceWatchFaceView" pc="268436141" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="153" parent="globals/TriforceWatchFaceView" pc="268436205" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="154" parent="globals/TriforceWatchFaceView" pc="268436257" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="14" lineNum="155" parent="globals/TriforceWatchFaceView" pc="268436306" symbol="drawTime"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="172" parent="globals/TriforceWatchFaceView" pc="268436359" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="173" parent="globals/TriforceWatchFaceView" pc="268436363" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="174" parent="globals/TriforceWatchFaceView" pc="268436386" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="175" parent="globals/TriforceWatchFaceView" pc="268436397" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="176" parent="globals/TriforceWatchFaceView" pc="268436448" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="177" parent="globals/TriforceWatchFaceView" pc="268436500" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="178" parent="globals/TriforceWatchFaceView" pc="268436525" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="179" parent="globals/TriforceWatchFaceView" pc="268436547" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="180" parent="globals/TriforceWatchFaceView" pc="268436595" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="181" parent="globals/TriforceWatchFaceView" pc="268436644" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="182" parent="globals/TriforceWatchFaceView" pc="268436680" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="184" parent="globals/TriforceWatchFaceView" pc="268436693" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="185" parent="globals/TriforceWatchFaceView" pc="268436700" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="189" parent="globals/TriforceWatchFaceView" pc="268436719" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="190" parent="globals/TriforceWatchFaceView" pc="268436735" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="193" parent="globals/TriforceWatchFaceView" pc="268436757" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="194" parent="globals/TriforceWatchFaceView" pc="268436782" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="195" parent="globals/TriforceWatchFaceView" pc="268436806" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="196" parent="globals/TriforceWatchFaceView" pc="268436831" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="199" parent="globals/TriforceWatchFaceView" pc="268436867" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="200" parent="globals/TriforceWatchFaceView" pc="268436892" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="201" parent="globals/TriforceWatchFaceView" pc="268436916" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="202" parent="globals/TriforceWatchFaceView" pc="268436941" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="205" parent="globals/TriforceWatchFaceView" pc="268436977" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="206" parent="globals/TriforceWatchFaceView" pc="268437002" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="207" parent="globals/TriforceWatchFaceView" pc="268437026" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="208" parent="globals/TriforceWatchFaceView" pc="268437051" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="211" parent="globals/TriforceWatchFaceView" pc="268437087" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="212" parent="globals/TriforceWatchFaceView" pc="268437112" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="213" parent="globals/TriforceWatchFaceView" pc="268437136" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="214" parent="globals/TriforceWatchFaceView" pc="268437161" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="217" parent="globals/TriforceWatchFaceView" pc="268437197" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="218" parent="globals/TriforceWatchFaceView" pc="268437222" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="219" parent="globals/TriforceWatchFaceView" pc="268437246" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="220" parent="globals/TriforceWatchFaceView" pc="268437271" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="223" parent="globals/TriforceWatchFaceView" pc="268437307" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="224" parent="globals/TriforceWatchFaceView" pc="268437332" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="225" parent="globals/TriforceWatchFaceView" pc="268437356" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="226" parent="globals/TriforceWatchFaceView" pc="268437381" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="229" parent="globals/TriforceWatchFaceView" pc="268437417" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="230" parent="globals/TriforceWatchFaceView" pc="268437442" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="231" parent="globals/TriforceWatchFaceView" pc="268437466" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="232" parent="globals/TriforceWatchFaceView" pc="268437491" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="235" parent="globals/TriforceWatchFaceView" pc="268437527" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="236" parent="globals/TriforceWatchFaceView" pc="268437552" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="237" parent="globals/TriforceWatchFaceView" pc="268437576" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="238" parent="globals/TriforceWatchFaceView" pc="268437601" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="241" parent="globals/TriforceWatchFaceView" pc="268437637" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="242" parent="globals/TriforceWatchFaceView" pc="268437662" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="243" parent="globals/TriforceWatchFaceView" pc="268437686" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="244" parent="globals/TriforceWatchFaceView" pc="268437711" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="247" parent="globals/TriforceWatchFaceView" pc="268437747" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="248" parent="globals/TriforceWatchFaceView" pc="268437772" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="249" parent="globals/TriforceWatchFaceView" pc="268437796" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="15" lineNum="250" parent="globals/TriforceWatchFaceView" pc="268437821" symbol="updateBattery"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="410" parent="globals/TriforceWatchFaceView" pc="268437858" symbol="drawMoveWarning"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="411" parent="globals/TriforceWatchFaceView" pc="268437862" symbol="drawMoveWarning"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="413" parent="globals/TriforceWatchFaceView" pc="268437885" symbol="drawMoveWarning"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="414" parent="globals/TriforceWatchFaceView" pc="268437896" symbol="drawMoveWarning"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="415" parent="globals/TriforceWatchFaceView" pc="268437980" symbol="drawMoveWarning"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="416" parent="globals/TriforceWatchFaceView" pc="268437991" symbol="drawMoveWarning"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="417" parent="globals/TriforceWatchFaceView" pc="268438051" symbol="drawMoveWarning"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="16" lineNum="418" parent="globals/TriforceWatchFaceView" pc="268438062" symbol="drawMoveWarning"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="296" parent="globals/TriforceWatchFaceView" pc="268438114" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="297" parent="globals/TriforceWatchFaceView" pc="268438118" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="298" parent="globals/TriforceWatchFaceView" pc="268438155" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="299" parent="globals/TriforceWatchFaceView" pc="268438159" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="300" parent="globals/TriforceWatchFaceView" pc="268438166" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="303" parent="globals/TriforceWatchFaceView" pc="268438173" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="304" parent="globals/TriforceWatchFaceView" pc="268438184" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="305" parent="globals/TriforceWatchFaceView" pc="268438191" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="308" parent="globals/TriforceWatchFaceView" pc="268438254" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="310" parent="globals/TriforceWatchFaceView" pc="268438270" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="311" parent="globals/TriforceWatchFaceView" pc="268438292" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="312" parent="globals/TriforceWatchFaceView" pc="268438309" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="314" parent="globals/TriforceWatchFaceView" pc="268438360" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="315" parent="globals/TriforceWatchFaceView" pc="268438371" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="317" parent="globals/TriforceWatchFaceView" pc="268438381" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="318" parent="globals/TriforceWatchFaceView" pc="268438420" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="319" parent="globals/TriforceWatchFaceView" pc="268438430" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="320" parent="globals/TriforceWatchFaceView" pc="268438441" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="322" parent="globals/TriforceWatchFaceView" pc="268438451" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="323" parent="globals/TriforceWatchFaceView" pc="268438470" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="324" parent="globals/TriforceWatchFaceView" pc="268438487" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="326" parent="globals/TriforceWatchFaceView" pc="268438544" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="327" parent="globals/TriforceWatchFaceView" pc="268438563" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="329" parent="globals/TriforceWatchFaceView" pc="268438580" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="331" parent="globals/TriforceWatchFaceView" pc="268438625" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="332" parent="globals/TriforceWatchFaceView" pc="268438643" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="333" parent="globals/TriforceWatchFaceView" pc="268438691" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="336" parent="globals/TriforceWatchFaceView" pc="268438752" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="337" parent="globals/TriforceWatchFaceView" pc="268438795" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="338" parent="globals/TriforceWatchFaceView" pc="268438799" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="339" parent="globals/TriforceWatchFaceView" pc="268438806" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="342" parent="globals/TriforceWatchFaceView" pc="268438813" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="343" parent="globals/TriforceWatchFaceView" pc="268438824" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="344" parent="globals/TriforceWatchFaceView" pc="268438831" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="348" parent="globals/TriforceWatchFaceView" pc="268438876" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="349" parent="globals/TriforceWatchFaceView" pc="268438898" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="352" parent="globals/TriforceWatchFaceView" pc="268438915" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="353" parent="globals/TriforceWatchFaceView" pc="268438926" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="355" parent="globals/TriforceWatchFaceView" pc="268438936" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="356" parent="globals/TriforceWatchFaceView" pc="268438975" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="357" parent="globals/TriforceWatchFaceView" pc="268438985" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="358" parent="globals/TriforceWatchFaceView" pc="268438996" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="360" parent="globals/TriforceWatchFaceView" pc="268439006" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="361" parent="globals/TriforceWatchFaceView" pc="268439025" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="362" parent="globals/TriforceWatchFaceView" pc="268439042" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="364" parent="globals/TriforceWatchFaceView" pc="268439099" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="365" parent="globals/TriforceWatchFaceView" pc="268439118" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="367" parent="globals/TriforceWatchFaceView" pc="268439135" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="369" parent="globals/TriforceWatchFaceView" pc="268439180" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="370" parent="globals/TriforceWatchFaceView" pc="268439198" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="371" parent="globals/TriforceWatchFaceView" pc="268439246" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="374" parent="globals/TriforceWatchFaceView" pc="268439307" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="375" parent="globals/TriforceWatchFaceView" pc="268439344" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="376" parent="globals/TriforceWatchFaceView" pc="268439348" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="377" parent="globals/TriforceWatchFaceView" pc="268439355" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="380" parent="globals/TriforceWatchFaceView" pc="268439362" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="381" parent="globals/TriforceWatchFaceView" pc="268439373" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="382" parent="globals/TriforceWatchFaceView" pc="268439380" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="385" parent="globals/TriforceWatchFaceView" pc="268439467" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="386" parent="globals/TriforceWatchFaceView" pc="268439474" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="387" parent="globals/TriforceWatchFaceView" pc="268439485" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="389" parent="globals/TriforceWatchFaceView" pc="268439492" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="390" parent="globals/TriforceWatchFaceView" pc="268439531" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="391" parent="globals/TriforceWatchFaceView" pc="268439544" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="392" parent="globals/TriforceWatchFaceView" pc="268439555" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="394" parent="globals/TriforceWatchFaceView" pc="268439565" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="395" parent="globals/TriforceWatchFaceView" pc="268439584" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="396" parent="globals/TriforceWatchFaceView" pc="268439601" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="398" parent="globals/TriforceWatchFaceView" pc="268439658" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="399" parent="globals/TriforceWatchFaceView" pc="268439677" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="401" parent="globals/TriforceWatchFaceView" pc="268439694" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="403" parent="globals/TriforceWatchFaceView" pc="268439742" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="404" parent="globals/TriforceWatchFaceView" pc="268439760" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="18" lineNum="405" parent="globals/TriforceWatchFaceView" pc="268439808" symbol="drawStepsIndicator"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="70" parent="globals/TriforceWatchFaceView" pc="268439870" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="71" parent="globals/TriforceWatchFaceView" pc="268439872" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="73" parent="globals/TriforceWatchFaceView" pc="268439913" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="74" parent="globals/TriforceWatchFaceView" pc="268439960" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="75" parent="globals/TriforceWatchFaceView" pc="268440007" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="76" parent="globals/TriforceWatchFaceView" pc="268440054" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="77" parent="globals/TriforceWatchFaceView" pc="268440101" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="78" parent="globals/TriforceWatchFaceView" pc="268440148" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="79" parent="globals/TriforceWatchFaceView" pc="268440195" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="80" parent="globals/TriforceWatchFaceView" pc="268440242" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="81" parent="globals/TriforceWatchFaceView" pc="268440289" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="82" parent="globals/TriforceWatchFaceView" pc="268440336" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="83" parent="globals/TriforceWatchFaceView" pc="268440383" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="84" parent="globals/TriforceWatchFaceView" pc="268440430" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="85" parent="globals/TriforceWatchFaceView" pc="268440477" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="86" parent="globals/TriforceWatchFaceView" pc="268440524" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="87" parent="globals/TriforceWatchFaceView" pc="268440571" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="88" parent="globals/TriforceWatchFaceView" pc="268440618" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="89" parent="globals/TriforceWatchFaceView" pc="268440665" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="90" parent="globals/TriforceWatchFaceView" pc="268440712" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="91" parent="globals/TriforceWatchFaceView" pc="268440759" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="92" parent="globals/TriforceWatchFaceView" pc="268440806" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="93" parent="globals/TriforceWatchFaceView" pc="268440853" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="94" parent="globals/TriforceWatchFaceView" pc="268440900" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="95" parent="globals/TriforceWatchFaceView" pc="268440947" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="96" parent="globals/TriforceWatchFaceView" pc="268440994" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="97" parent="globals/TriforceWatchFaceView" pc="268441041" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="99" parent="globals/TriforceWatchFaceView" pc="268441088" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="21" lineNum="100" parent="globals/TriforceWatchFaceView" pc="268441113" symbol="onLayout"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="255" parent="globals/TriforceWatchFaceView" pc="268441139" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="256" parent="globals/TriforceWatchFaceView" pc="268441143" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="257" parent="globals/TriforceWatchFaceView" pc="268441162" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="258" parent="globals/TriforceWatchFaceView" pc="268441186" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="260" parent="globals/TriforceWatchFaceView" pc="268441262" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="22" lineNum="261" parent="globals/TriforceWatchFaceView" pc="268441284" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="23" lineNum="279" parent="globals/TriforceWatchFaceView" pc="268441340" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="23" lineNum="280" parent="globals/TriforceWatchFaceView" pc="268441344" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="23" lineNum="281" parent="globals/TriforceWatchFaceView" pc="268441382" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="23" lineNum="282" parent="globals/TriforceWatchFaceView" pc="268441404" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="24" lineNum="272" parent="globals/TriforceWatchFaceView" pc="268441478" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="24" lineNum="273" parent="globals/TriforceWatchFaceView" pc="268441482" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="24" lineNum="274" parent="globals/TriforceWatchFaceView" pc="268441514" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="24" lineNum="275" parent="globals/TriforceWatchFaceView" pc="268441536" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="24" lineNum="276" parent="globals/TriforceWatchFaceView" pc="268441591" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="285" parent="globals/TriforceWatchFaceView" pc="268441640" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="286" parent="globals/TriforceWatchFaceView" pc="268441644" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="287" parent="globals/TriforceWatchFaceView" pc="268441651" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="288" parent="globals/TriforceWatchFaceView" pc="268441670" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="291" parent="globals/TriforceWatchFaceView" pc="268441727" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="26" lineNum="293" parent="globals/TriforceWatchFaceView" pc="268441781" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="45" parent="globals/TriforceWatchFaceView" pc="268441861" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="46" parent="globals/TriforceWatchFaceView" pc="268441865" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="48" parent="globals/TriforceWatchFaceView" pc="268441883" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="49" parent="globals/TriforceWatchFaceView" pc="268441898" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="50" parent="globals/TriforceWatchFaceView" pc="268441929" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="51" parent="globals/TriforceWatchFaceView" pc="268441958" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="53" parent="globals/TriforceWatchFaceView" pc="268441971" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="54" parent="globals/TriforceWatchFaceView" pc="268442015" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="57" parent="globals/TriforceWatchFaceView" pc="268442052" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="58" parent="globals/TriforceWatchFaceView" pc="268442069" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="59" parent="globals/TriforceWatchFaceView" pc="268442090" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="60" parent="globals/TriforceWatchFaceView" pc="268442109" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="27" lineNum="62" parent="globals/TriforceWatchFaceView" pc="268442122" symbol="initialize"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="110" parent="globals/TriforceWatchFaceView" pc="268442147" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="112" parent="globals/TriforceWatchFaceView" pc="268442151" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="114" parent="globals/TriforceWatchFaceView" pc="268442168" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="118" parent="globals/TriforceWatchFaceView" pc="268442185" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="119" parent="globals/TriforceWatchFaceView" pc="268442205" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="120" parent="globals/TriforceWatchFaceView" pc="268442265" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="121" parent="globals/TriforceWatchFaceView" pc="268442307" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="123" parent="globals/TriforceWatchFaceView" pc="268442391" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="124" parent="globals/TriforceWatchFaceView" pc="268442408" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="125" parent="globals/TriforceWatchFaceView" pc="268442424" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="126" parent="globals/TriforceWatchFaceView" pc="268442440" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="127" parent="globals/TriforceWatchFaceView" pc="268442454" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="128" parent="globals/TriforceWatchFaceView" pc="268442468" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="129" parent="globals/TriforceWatchFaceView" pc="268442482" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="130" parent="globals/TriforceWatchFaceView" pc="268442496" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="131" parent="globals/TriforceWatchFaceView" pc="268442510" symbol="onUpdate"/>
+        <entry filename="/Users/sabreen/Downloads/eclipse-workspace/Triforce-Watch-Face/source/TriforceWatchFaceView.mc" id="28" lineNum="132" parent="globals/TriforceWatchFaceView" pc="268442534" symbol="onUpdate"/>
+        <entry filename="Rez.mc" id="29" lineNum="46" parent="globals/Rez/Layouts" pc="268442565" symbol="WatchFace"/>
+        <entry filename="Rez.mc" id="29" lineNum="48" parent="globals/Rez/Layouts" pc="268442577" symbol="WatchFace"/>
+        <entry filename="Rez.mc" id="29" lineNum="49" parent="globals/Rez/Layouts" pc="268442605" symbol="WatchFace"/>
+        <entry filename="Rez.mc" id="29" lineNum="51" parent="globals/Rez/Layouts" pc="268442740" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
-        <entry field="true" id="55" symbol="oneheart"/>
+        <entry field="true" id="57" symbol="oneheart"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="46" symbol="darkNavi"/>
-        <entry field="true" id="40" symbol="two5hearts"/>
+        <entry field="true" id="48" symbol="darkNavi"/>
+        <entry field="true" id="41" symbol="two5hearts"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
         <entry id="7" module="true" symbol="globals/Rez/Menus"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-        <entry field="true" id="70" symbol="ColorRed"/>
-        <entry field="true" id="49" symbol="fiveheart"/>
-        <entry field="true" id="51" symbol="fourheart"/>
-        <entry field="true" id="62" symbol="calamitysans"/>
-        <entry field="true" id="73" symbol="MilitaryFormatTitle"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry field="true" id="51" symbol="fiveheart"/>
+        <entry field="true" id="53" symbol="fourheart"/>
+        <entry field="true" id="64" symbol="calamitysans"/>
+        <entry id="8391839" method="true" symbol="getBodyBatteryHistory"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="67" symbol="ColorBlue"/>
-        <entry id="19" method="true" symbol="drawTime"/>
-        <entry id="18" method="true" symbol="drawStepsIndicator"/>
-        <entry field="true" id="64" symbol="AppName"/>
+        <entry id="20" method="true" symbol="drawTime"/>
+        <entry id="19" method="true" symbol="drawStepsIndicator"/>
+        <entry field="true" id="66" symbol="AppName"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
-        <entry field="true" id="23" symbol="fivehearts"/>
+        <entry field="true" id="24" symbol="fivehearts"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="8388724" symbol="battery"/>
         <entry field="true" id="8388912" symbol="steps"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="67" symbol="BodyBatteryTitle"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
-        <entry id="31" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;"/>
+        <entry id="32" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry field="true" id="8389348" symbol="font"/>
         <entry id="12" module="true" symbol="Menus"/>
         <entry id="8389275" method="true" symbol="getApp"/>
-        <entry field="true" id="68" symbol="ColorDarkGray"/>
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
-        <entry field="true" id="37" symbol="three5hearts"/>
+        <entry field="true" id="38" symbol="three5hearts"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry id="35" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
-        <entry field="true" id="22" symbol="filledTriforce"/>
+        <entry id="36" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStepCountDisplay&gt;"/>
+        <entry field="true" id="23" symbol="filledTriforce"/>
         <entry id="8389376" method="true" symbol="onEnterSleep"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry field="true" id="20" symbol="emptyTriforce"/>
-        <entry field="true" id="57" symbol="threeheart"/>
+        <entry field="true" id="21" symbol="emptyTriforce"/>
+        <entry field="true" id="59" symbol="threeheart"/>
         <entry id="8389349" symbol="justification"/>
-        <entry id="42" method="true" symbol="updateBattery"/>
-        <entry field="true" id="63" symbol="fonty"/>
-        <entry field="true" id="71" symbol="ColorWhite"/>
+        <entry id="43" method="true" symbol="updateBattery"/>
+        <entry field="true" id="65" symbol="fonty"/>
         <entry id="5" module="true" symbol="globals/Rez/JsonData"/>
         <entry field="true" id="8389892" symbol="background"/>
-        <entry field="true" id="66" symbol="ColorBlack"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-        <entry field="true" id="25" symbol="fourhearts"/>
-        <entry field="true" id="44" symbol="zerohearts"/>
-        <entry id="34" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
-        <entry id="32" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
-        <entry field="true" id="60" symbol="zero5heart"/>
-        <entry field="true" id="52" symbol="moveTriangle"/>
-        <entry field="true" id="43" symbol="zero5hearts"/>
+        <entry field="true" id="26" symbol="fourhearts"/>
+        <entry field="true" id="46" symbol="zerohearts"/>
+        <entry id="35" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;"/>
+        <entry id="33" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry field="true" id="62" symbol="zero5heart"/>
+        <entry field="true" id="54" symbol="moveTriangle"/>
+        <entry field="true" id="45" symbol="zero5hearts"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry field="true" id="48" symbol="filledTriangle"/>
-        <entry field="true" id="28" symbol="one5hearts"/>
+        <entry field="true" id="50" symbol="filledTriangle"/>
+        <entry field="true" id="29" symbol="one5hearts"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
         <entry id="8389068" method="true" symbol="draw"/>
-        <entry field="true" id="45" symbol="LauncherIcon"/>
+        <entry field="true" id="47" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
-        <entry field="true" id="21" symbol="farore"/>
+        <entry field="true" id="22" symbol="farore"/>
         <entry id="8389123" method="true" symbol="onShow"/>
         <entry id="10" object="true" symbol="TriforceWatchFaceView"/>
-        <entry field="true" id="14" symbol="center_y"/>
-        <entry field="true" id="13" symbol="center_x"/>
-        <entry field="true" id="39" symbol="threehearts"/>
+        <entry field="true" id="15" symbol="center_y"/>
+        <entry field="true" id="14" symbol="center_x"/>
+        <entry field="true" id="13" symbol="batteryIcon"/>
+        <entry field="true" id="40" symbol="threehearts"/>
         <entry id="8389350" module="true" symbol="globals"/>
-        <entry field="true" id="65" symbol="BackgroundColorTitle"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry field="true" id="24" symbol="four5hearts"/>
+        <entry field="true" id="25" symbol="four5hearts"/>
         <entry id="8390146" module="true" object="true" symbol="Background"/>
-        <entry field="true" id="26" symbol="navi"/>
+        <entry field="true" id="27" symbol="navi"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="56" symbol="three5heart"/>
-        <entry field="true" id="38" symbol="threeQuarterHeart"/>
-        <entry id="33" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
-        <entry field="true" id="47" symbol="faroreL"/>
+        <entry field="true" id="58" symbol="three5heart"/>
+        <entry field="true" id="39" symbol="threeQuarterHeart"/>
+        <entry id="34" method="true" symbol="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;"/>
+        <entry field="true" id="49" symbol="faroreL"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="29" symbol="onehearts"/>
+        <entry field="true" id="30" symbol="onehearts"/>
+        <entry field="true" id="44" symbol="useBodyBattery"/>
+        <entry id="8389808" symbol="period"/>
         <entry id="8388641" module="true" symbol="Math"/>
-        <entry field="true" id="16" symbol="din"/>
-        <entry field="true" id="41" symbol="twohearts"/>
-        <entry field="true" id="54" symbol="one5heart"/>
-        <entry field="true" id="36" symbol="stairs"/>
-        <entry field="true" id="69" symbol="ColorLightGray"/>
-        <entry field="true" id="50" symbol="four5heart"/>
+        <entry field="true" id="17" symbol="din"/>
+        <entry field="true" id="42" symbol="twohearts"/>
+        <entry field="true" id="56" symbol="one5heart"/>
+        <entry field="true" id="37" symbol="stairs"/>
+        <entry field="true" id="52" symbol="four5heart"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry field="true" id="58" symbol="two5heart"/>
-        <entry field="true" id="15" symbol="darknavi"/>
+        <entry field="true" id="60" symbol="two5heart"/>
+        <entry field="true" id="16" symbol="darknavi"/>
         <entry id="8389347" symbol="color"/>
-        <entry id="17" method="true" symbol="drawMoveWarning"/>
-        <entry field="true" id="72" symbol="ForegroundColorTitle"/>
+        <entry id="18" method="true" symbol="drawMoveWarning"/>
+        <entry id="8389781" module="true" symbol="SensorHistory"/>
         <entry id="11" module="true" symbol="Layouts"/>
-        <entry field="true" id="53" symbol="myBackground"/>
-        <entry field="true" id="59" symbol="twoheart"/>
-        <entry field="true" id="30" symbol="quarterHeart"/>
+        <entry field="true" id="55" symbol="myBackground"/>
+        <entry field="true" id="61" symbol="twoheart"/>
+        <entry field="true" id="31" symbol="quarterHeart"/>
         <entry id="4" module="true" symbol="globals/Rez/Fonts"/>
         <entry id="8389125" method="true" symbol="onHide"/>
-        <entry field="true" id="61" symbol="zeroheart"/>
+        <entry field="true" id="63" symbol="zeroheart"/>
         <entry id="9" object="true" symbol="TriforceWatchFaceApp"/>
         <entry id="8388635" module="true" symbol="Application"/>
-        <entry field="true" id="27" symbol="nayru"/>
+        <entry field="true" id="28" symbol="nayru"/>
     </symbolTable>
     <localVars>
         <entry endPc="268435657" name="dictionary" stackId="1" startPc="268435617"/>
@@ -359,59 +382,64 @@
         <entry arg="true" endPc="268435998" name="dc" stackId="1" startPc="268435739"/>
         <entry endPc="268435997" name="stepCount" stackId="2" startPc="268435743"/>
         <entry endPc="268435997" name="textDim" stackId="3" startPc="268435743"/>
-        <entry arg="true" endPc="268436344" name="dc" stackId="1" startPc="268435999"/>
-        <entry arg="true" endPc="268436344" name="clockTime" stackId="2" startPc="268435999"/>
-        <entry arg="true" endPc="268436344" name="is24hour" stackId="3" startPc="268435999"/>
-        <entry endPc="268436343" name="hours" stackId="4" startPc="268436003"/>
-        <entry endPc="268436343" name="min" stackId="5" startPc="268436003"/>
-        <entry endPc="268436187" name="amPm" stackId="6" startPc="268436065"/>
-        <entry endPc="268436187" name="isPm" stackId="7" startPc="268436065"/>
-        <entry endPc="268436187" name="textDim" stackId="8" startPc="268436065"/>
-        <entry arg="true" endPc="268437510" name="dc" stackId="1" startPc="268436345"/>
-        <entry endPc="268437509" name="battery" stackId="2" startPc="268436349"/>
-        <entry endPc="268437509" name="position_x" stackId="3" startPc="268436349"/>
-        <entry endPc="268437509" name="position_y" stackId="4" startPc="268436349"/>
-        <entry arg="true" endPc="268437766" name="dc" stackId="1" startPc="268437511"/>
-        <entry endPc="268437765" name="moveBarLevel" stackId="2" startPc="268437515"/>
-        <entry arg="true" endPc="268439522" name="dc" stackId="1" startPc="268437767"/>
-        <entry arg="true" endPc="268439522" name="activityInfo" stackId="2" startPc="268437767"/>
-        <entry endPc="268439521" name="stepPercent" stackId="3" startPc="268437771"/>
-        <entry endPc="268439521" name="fillPercent" stackId="4" startPc="268437771"/>
-        <entry endPc="268439521" name="borderColor" stackId="5" startPc="268437771"/>
-        <entry endPc="268439521" name="fillColor" stackId="6" startPc="268437771"/>
-        <entry endPc="268439521" name="r" stackId="7" startPc="268437771"/>
-        <entry endPc="268438193" name="arcSize" stackId="8" startPc="268438024"/>
-        <entry endPc="268438404" name="i" stackId="9" startPc="268438296"/>
-        <entry endPc="268439521" name="activityPercent" stackId="10" startPc="268437771"/>
-        <entry endPc="268438748" name="arcSize" stackId="11" startPc="268438579"/>
-        <entry endPc="268438959" name="i" stackId="12" startPc="268438851"/>
-        <entry endPc="268439521" name="stairPercent" stackId="13" startPc="268437771"/>
-        <entry endPc="268439521" name="arcMax" stackId="14" startPc="268437771"/>
-        <entry endPc="268439307" name="arcSize" stackId="15" startPc="268439138"/>
-        <entry endPc="268439521" name="i" stackId="16" startPc="268439413"/>
-        <entry arg="true" endPc="268440744" name="dc" stackId="1" startPc="268439523"/>
-        <entry arg="true" endPc="268440945" name="dc" stackId="1" startPc="268440745"/>
-        <entry endPc="268440944" name="now" stackId="2" startPc="268440749"/>
-        <entry endPc="268440944" name="date" stackId="3" startPc="268440749"/>
-        <entry endPc="268440944" name="dateString" stackId="4" startPc="268440749"/>
-        <entry arg="true" endPc="268441083" name="dc" stackId="1" startPc="268440946"/>
-        <entry endPc="268441082" name="actMin" stackId="2" startPc="268440950"/>
-        <entry arg="true" endPc="268441245" name="dc" stackId="1" startPc="268441084"/>
-        <entry endPc="268441244" name="stairCount" stackId="2" startPc="268441088"/>
-        <entry arg="true" endPc="268441466" name="dc" stackId="1" startPc="268441246"/>
-        <entry arg="true" endPc="268441466" name="phoneConnected" stackId="2" startPc="268441246"/>
-        <entry arg="true" endPc="268441466" name="notificationCount" stackId="3" startPc="268441246"/>
-        <entry endPc="268441465" name="notifications" stackId="4" startPc="268441250"/>
-        <entry arg="true" endPc="268441903" name="dc" stackId="1" startPc="268441488"/>
-        <entry endPc="268441902" name="now" stackId="2" startPc="268441492"/>
-        <entry endPc="268441902" name="settings" stackId="3" startPc="268441492"/>
-        <entry endPc="268441902" name="activityInfo" stackId="4" startPc="268441492"/>
-        <entry arg="true" endPc="268442105" name="dc" stackId="1" startPc="268441904"/>
-        <entry endPc="268442105" name="rez_cmp_local_custom_drawable_48691111821127099502" stackId="2" startPc="268441916"/>
-        <entry endPc="268442105" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268441916"/>
+        <entry arg="true" endPc="268436358" name="dc" stackId="1" startPc="268435999"/>
+        <entry arg="true" endPc="268436358" name="clockTime" stackId="2" startPc="268435999"/>
+        <entry arg="true" endPc="268436358" name="is24hour" stackId="3" startPc="268435999"/>
+        <entry endPc="268436357" name="hours" stackId="4" startPc="268436003"/>
+        <entry endPc="268436357" name="min" stackId="5" startPc="268436003"/>
+        <entry endPc="268436201" name="amPm" stackId="6" startPc="268436065"/>
+        <entry endPc="268436201" name="isPm" stackId="7" startPc="268436065"/>
+        <entry endPc="268436201" name="textDim" stackId="8" startPc="268436065"/>
+        <entry arg="true" endPc="268437857" name="dc" stackId="1" startPc="268436359"/>
+        <entry arg="true" endPc="268437857" name="activityInfo" stackId="2" startPc="268436359"/>
+        <entry endPc="268437856" name="battery" stackId="3" startPc="268436363"/>
+        <entry endPc="268436712" name="batStr" stackId="4" startPc="268436448"/>
+        <entry endPc="268436712" name="batPosition" stackId="5" startPc="268436448"/>
+        <entry endPc="268436712" name="bodyBatt" stackId="6" startPc="268436448"/>
+        <entry endPc="268437856" name="position_x" stackId="7" startPc="268436363"/>
+        <entry endPc="268437856" name="position_y" stackId="8" startPc="268436363"/>
+        <entry arg="true" endPc="268438113" name="dc" stackId="1" startPc="268437858"/>
+        <entry endPc="268438112" name="moveBarLevel" stackId="2" startPc="268437862"/>
+        <entry arg="true" endPc="268439869" name="dc" stackId="1" startPc="268438114"/>
+        <entry arg="true" endPc="268439869" name="activityInfo" stackId="2" startPc="268438114"/>
+        <entry endPc="268439868" name="stepPercent" stackId="3" startPc="268438118"/>
+        <entry endPc="268439868" name="fillPercent" stackId="4" startPc="268438118"/>
+        <entry endPc="268439868" name="borderColor" stackId="5" startPc="268438118"/>
+        <entry endPc="268439868" name="fillColor" stackId="6" startPc="268438118"/>
+        <entry endPc="268439868" name="r" stackId="7" startPc="268438118"/>
+        <entry endPc="268438540" name="arcSize" stackId="8" startPc="268438371"/>
+        <entry endPc="268438751" name="i" stackId="9" startPc="268438643"/>
+        <entry endPc="268439868" name="activityPercent" stackId="10" startPc="268438118"/>
+        <entry endPc="268439095" name="arcSize" stackId="11" startPc="268438926"/>
+        <entry endPc="268439306" name="i" stackId="12" startPc="268439198"/>
+        <entry endPc="268439868" name="stairPercent" stackId="13" startPc="268438118"/>
+        <entry endPc="268439868" name="arcMax" stackId="14" startPc="268438118"/>
+        <entry endPc="268439654" name="arcSize" stackId="15" startPc="268439485"/>
+        <entry endPc="268439868" name="i" stackId="16" startPc="268439760"/>
+        <entry arg="true" endPc="268441138" name="dc" stackId="1" startPc="268439870"/>
+        <entry arg="true" endPc="268441339" name="dc" stackId="1" startPc="268441139"/>
+        <entry endPc="268441338" name="now" stackId="2" startPc="268441143"/>
+        <entry endPc="268441338" name="date" stackId="3" startPc="268441143"/>
+        <entry endPc="268441338" name="dateString" stackId="4" startPc="268441143"/>
+        <entry arg="true" endPc="268441477" name="dc" stackId="1" startPc="268441340"/>
+        <entry endPc="268441476" name="actMin" stackId="2" startPc="268441344"/>
+        <entry arg="true" endPc="268441639" name="dc" stackId="1" startPc="268441478"/>
+        <entry endPc="268441638" name="stairCount" stackId="2" startPc="268441482"/>
+        <entry arg="true" endPc="268441860" name="dc" stackId="1" startPc="268441640"/>
+        <entry arg="true" endPc="268441860" name="phoneConnected" stackId="2" startPc="268441640"/>
+        <entry arg="true" endPc="268441860" name="notificationCount" stackId="3" startPc="268441640"/>
+        <entry endPc="268441859" name="notifications" stackId="4" startPc="268441644"/>
+        <entry endPc="268442145" name="app" stackId="1" startPc="268442052"/>
+        <entry arg="true" endPc="268442564" name="dc" stackId="1" startPc="268442147"/>
+        <entry endPc="268442563" name="now" stackId="2" startPc="268442151"/>
+        <entry endPc="268442563" name="settings" stackId="3" startPc="268442151"/>
+        <entry endPc="268442563" name="activityInfo" stackId="4" startPc="268442151"/>
+        <entry arg="true" endPc="268442766" name="dc" stackId="1" startPc="268442565"/>
+        <entry endPc="268442766" name="rez_cmp_local_custom_drawable_76679916615021447874" stackId="2" startPc="268442577"/>
+        <entry endPc="268442766" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268442577"/>
     </localVars>
     <annotations>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="battery"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="stairs"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="four5heart"/>
@@ -424,29 +452,22 @@
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="fourheart"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="zeroheart"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="navi"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="two5heart"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="farore"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="din"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="twoheart"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
         <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="calamitysans"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="one5heart"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="steps"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="quarterHeart"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="three5heart"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="moveTriangle"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="threeheart"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="threeQuarterHeart"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="filledTriangle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="nayru"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BodyBatteryTitle"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="oneheart"/>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="zero5heart"/>
     </annotations>
@@ -456,12 +477,12 @@
         <dataEntry label="globals/Background" offset="245" parentId="globals" symbolId="Background" type="class"/>
         <dataEntry label="globals/Rez" offset="300" parentId="globals" symbolId="Rez" type="module"/>
         <dataEntry label="globals/TriforceWatchFaceView" offset="379" parentId="globals" symbolId="TriforceWatchFaceView" type="class"/>
-        <dataEntry label="globals/Rez/Drawables" offset="754" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="993" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/Menus" offset="1032" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry label="globals/Rez/Fonts" offset="1063" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="1110" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="1221" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="770" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1017" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="1056" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="1087" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1134" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1181" parentId="Rez" symbolId="JsonData" type="module"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" endPc="268435478" name="&lt;init&gt;" parent="TriforceWatchFaceApp" startPc="268435460">
@@ -507,24 +528,25 @@
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436344" name="drawTime" parent="TriforceWatchFaceView" startPc="268435999">
+        <functionEntry accessMode="public" endPc="268436358" name="drawTime" parent="TriforceWatchFaceView" startPc="268435999">
             <param id="dc"/>
             <param id="clockTime"/>
             <param id="is24hour"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437510" name="updateBattery" parent="TriforceWatchFaceView" startPc="268436345">
+        <functionEntry accessMode="public" endPc="268437857" name="updateBattery" parent="TriforceWatchFaceView" startPc="268436359">
             <param id="dc"/>
+            <param id="activityInfo"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437766" name="drawMoveWarning" parent="TriforceWatchFaceView" startPc="268437511">
+        <functionEntry accessMode="public" endPc="268438113" name="drawMoveWarning" parent="TriforceWatchFaceView" startPc="268437858">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onHide" parent="TriforceWatchFaceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439522" name="drawStepsIndicator" parent="TriforceWatchFaceView" startPc="268437767">
+        <functionEntry accessMode="public" endPc="268439869" name="drawStepsIndicator" parent="TriforceWatchFaceView" startPc="268438114">
             <param id="dc"/>
             <param id="activityInfo"/>
             <documentation/>
@@ -535,35 +557,35 @@
         <functionEntry accessMode="public" name="onShow" parent="TriforceWatchFaceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440744" name="onLayout" parent="TriforceWatchFaceView" startPc="268439523">
+        <functionEntry accessMode="public" endPc="268441138" name="onLayout" parent="TriforceWatchFaceView" startPc="268439870">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268440945" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;" parent="TriforceWatchFaceView" startPc="268440745">
+        <functionEntry accessMode="private" endPc="268441339" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setDateDisplay&gt;" parent="TriforceWatchFaceView" startPc="268441139">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268441083" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;" parent="TriforceWatchFaceView" startPc="268440946">
+        <functionEntry accessMode="private" endPc="268441477" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setActivityMinDisplay&gt;" parent="TriforceWatchFaceView" startPc="268441340">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268441245" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;" parent="TriforceWatchFaceView" startPc="268441084">
+        <functionEntry accessMode="private" endPc="268441639" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setStairCountDisplay&gt;" parent="TriforceWatchFaceView" startPc="268441478">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onEnterSleep" parent="TriforceWatchFaceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268441466" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;" parent="TriforceWatchFaceView" startPc="268441246">
+        <functionEntry accessMode="private" endPc="268441860" name="&lt;globals/TriforceWatchFaceView/&lt;&gt;setNotificationDisplay&gt;" parent="TriforceWatchFaceView" startPc="268441640">
             <param id="dc"/>
             <param id="phoneConnected"/>
             <param id="notificationCount"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441487" name="initialize" parent="TriforceWatchFaceView" startPc="268441467">
+        <functionEntry accessMode="public" endPc="268442146" name="initialize" parent="TriforceWatchFaceView" startPc="268441861">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441903" name="onUpdate" parent="TriforceWatchFaceView" startPc="268441488">
+        <functionEntry accessMode="public" endPc="268442564" name="onUpdate" parent="TriforceWatchFaceView" startPc="268442147">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
@@ -585,7 +607,7 @@
         <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268442105" name="WatchFace" parent="Layouts" startPc="268441904">
+        <functionEntry accessMode="public" endPc="268442766" name="WatchFace" parent="Layouts" startPc="268442565">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
